@@ -1,0 +1,3 @@
+# Zależności Python dla Zwierzyńcopedia
+mkdocs-material>=9.5
+mkdocs>=1.6

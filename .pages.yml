@@ -1,0 +1,169 @@
+# =============================================================================
+# Konfiguracja Pages CMS – warstwa edytorska dla wolontariuszy
+# https://pagescms.org/
+# =============================================================================
+
+# Lokalizacja plików multimedialnych (zdjęcia, skany, mapy)
+media:
+  input: docs/assets/images
+  output: /assets/images
+  categories:
+    - label: Architektura
+      path: architektura
+    - label: Przyroda
+      path: przyroda
+    - label: Ludzie
+      path: ludzie
+    - label: Mapy i plany
+      path: mapy
+
+# Kolekcje treści – każda odpowiada sekcji w wiki
+content:
+  # ── Dziedzictwo: Układ urbanistyczny ──────────────────────────────────
+  - name: uklad-urbanistyczny
+    label: Układ urbanistyczny
+    path: docs/dziedzictwo/uklad-urbanistyczny
+    type: collection
+    fields:
+      - name: title
+        label: Tytuł hasła
+        type: string
+        required: true
+      - name: description
+        label: Krótki opis (dla wyszukiwarek)
+        type: string
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Treść artykułu
+        type: rich-text
+
+  # ── Dziedzictwo: Architektura ─────────────────────────────────────────
+  - name: architektura
+    label: Architektura
+    path: docs/dziedzictwo/architektura
+    type: collection
+    fields:
+      - name: title
+        label: Tytuł hasła
+        type: string
+        required: true
+      - name: description
+        label: Krótki opis
+        type: string
+      - name: rok_budowy
+        label: Rok budowy
+        type: string
+      - name: status
+        label: Status obiektu
+        type: select
+        options:
+          - Istniejący
+          - Ruina
+          - Nieistniejący
+          - W remoncie
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Treść artykułu
+        type: rich-text
+
+  # ── Dziedzictwo utracone ──────────────────────────────────────────────
+  - name: utracone
+    label: Dziedzictwo utracone
+    path: docs/dziedzictwo/utracone
+    type: collection
+    fields:
+      - name: title
+        label: Tytuł hasła
+        type: string
+        required: true
+      - name: description
+        label: Krótki opis
+        type: string
+      - name: rok_zniszczenia
+        label: Rok zniszczenia / rozbiórki
+        type: string
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Treść artykułu
+        type: rich-text
+
+  # ── Przyroda ──────────────────────────────────────────────────────────
+  - name: przyroda
+    label: Przyroda
+    path: docs/przyroda
+    type: collection
+    fields:
+      - name: title
+        label: Tytuł hasła
+        type: string
+        required: true
+      - name: description
+        label: Krótki opis
+        type: string
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Treść artykułu
+        type: rich-text
+
+  # ── Ludzie ────────────────────────────────────────────────────────────
+  - name: ludzie
+    label: Ludzie
+    path: docs/ludzie
+    type: collection
+    fields:
+      - name: title
+        label: Imię i nazwisko
+        type: string
+        required: true
+      - name: description
+        label: Kim był(a)?
+        type: string
+      - name: lata_zycia
+        label: Lata życia
+        type: string
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Biogram
+        type: rich-text
+
+  # ── Biblioteka ────────────────────────────────────────────────────────
+  - name: biblioteka
+    label: Biblioteka
+    path: docs/biblioteka
+    type: collection
+    fields:
+      - name: title
+        label: Tytuł dokumentu
+        type: string
+        required: true
+      - name: description
+        label: Opis dokumentu
+        type: string
+      - name: rok
+        label: Rok powstania
+        type: string
+      - name: zrodlo
+        label: Źródło
+        type: string
+      - name: tags
+        label: Tagi
+        type: string
+        list: true
+      - name: body
+        label: Treść / transkrypcja
+        type: rich-text
