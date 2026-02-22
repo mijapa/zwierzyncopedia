@@ -9,7 +9,11 @@ description: Zwierzyńcopedia – cyfrowe repozytorium dziedzictwa Zwierzyńca, 
 
 ---
 
+<div class="home-intro" markdown>
+
 Witamy w **Zwierzyńcopedii** – encyklopedii poświęconej historii, architekturze, przyrodzie i ludziom Zwierzyńca. Naszą misją jest dokumentowanie i ochrona dziedzictwa kulturowego tego wyjątkowego miejsca na Roztoczu.
+
+</div>
 
 ## Eksploruj
 
