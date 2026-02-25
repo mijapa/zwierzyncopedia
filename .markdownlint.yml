@@ -1,0 +1,59 @@
+# Konfiguracja markdownlint dla Zwierzyńcopedia
+# https://github.com/DavidAnson/markdownlint
+
+default: true
+
+# MD001 – heading-increment: nagłówki muszą rosnąć stopniowo (np. H1 -> H2, nie H1 -> H3)
+# Krytyczna dla poprawnego generowania spisu treści i nawigacji semantycznej
+MD001: true
+
+# MD009 – no-trailing-spaces: zakaz białych znaków na końcach linii
+# Zapobiega konfliktom w Git przy wspólnej edycji
+MD009: true
+
+# MD013 – line-length: wyłączona
+# Wymuszanie twardych łamań linii w prozie encyklopedycznej utrudnia edycję i historię zmian
+MD013: false
+
+# MD025 – single-title: front_matter_title wyłączone, by nie kolidować z H1 w treści
+# Pliki MkDocs mają title: w nagłówku YAML i H1 w treści – to prawidłowy wzorzec
+MD025:
+  front_matter_title: ""
+
+# MD030 – list-marker-space: Material for MkDocs używa 3 spacji po "-" w grid cards
+MD030:
+  ul_single: 1
+  ul_multi: 3
+  ol_single: 1
+  ol_multi: 1
+
+# MD033 – no-inline-html: zmodyfikowana – dozwolone wybrane znaczniki HTML
+# Potrzebne do zaawansowanych komponentów Material for MkDocs
+MD033:
+  allowed_elements:
+    - div
+    - details
+    - summary
+    - sup
+    - sub
+    - br
+    - abbr
+
+# MD036 – no-emphasis-as-heading: wyłączona
+# Pogrubiony tekst jako dekoracyjny podtytuł jest prawidłowym wzorcem w MkDocs
+MD036: false
+
+# MD041 – first-line-heading: każdy plik musi zaczynać się od nagłówka lub bloku front-matter
+# Zapewnia spójność tytułowania i indeksowania artykułów
+MD041: true
+
+# MD045 – no-alt-text: każdy obraz musi mieć tekst alternatywny
+# Wymóg dostępności cyfrowej (WCAG) i indeksacji obrazów
+MD045: true
+
+# MD046 – code-block-style: wyłączona
+# Treść wewnątrz bloków admonition (!!! warning) jest wcięta i mylnie traktowana jako blok kodu
+MD046: false
+
+# MD060 – table-column-style: wyłączona – dopuszcza styl "compact" używany w MkDocs Material
+MD060: false

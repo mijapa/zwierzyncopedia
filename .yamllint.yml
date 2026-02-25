@@ -1,0 +1,19 @@
+# Konfiguracja yamllint dla Zwierzyńcopedia
+# https://yamllint.readthedocs.io
+
+extends: default
+
+rules:
+  document-start: disable
+  line-length:
+    max: 120
+    level: warning
+  indentation:
+    spaces: 2
+    indent-sequences: whatever
+    check-multi-line-strings: false
+  truthy:
+    allowed-values: ['true', 'false']
+    check-keys: false
+  comments:
+    min-spaces-from-content: 1
