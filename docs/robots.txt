@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mijapa.github.io/zwierzyncopedia/sitemap.xml
+
+# Plik dla agentów AI opisujący strukturę witryny:
+# https://mijapa.github.io/zwierzyncopedia/llms.txt
