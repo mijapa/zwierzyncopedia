@@ -18,8 +18,12 @@
   <meta property="og:site_name"   content="{{ config.site_name | e }}">
   <meta property="og:locale"      content="pl_PL">
   {% if page.meta.image %}
-  {% set img_path = page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image %}
-  <meta property="og:image" content="{{ (config.site_url ~ img_path) | e }}">
+  {% if "://" in page.meta.image or page.meta.image.startswith("//") %}
+  {% set img_url = page.meta.image %}
+  {% else %}
+  {% set img_url = config.site_url ~ (page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image) %}
+  {% endif %}
+  <meta property="og:image" content="{{ img_url | e }}">
   {% if page.meta.image_alt %}
   <meta property="og:image:alt"   content="{{ page.meta.image_alt | e }}">
   {% endif %}
@@ -28,7 +32,7 @@
   <meta name="twitter:title"       content="{{ og_title | e }}">
   <meta name="twitter:description" content="{{ og_description | e }}">
   {% if page.meta.image %}
-  <meta name="twitter:image"       content="{{ (config.site_url ~ img_path) | e }}">
+  <meta name="twitter:image"       content="{{ img_url | e }}">
   {% if page.meta.image_alt %}
   <meta name="twitter:image:alt"   content="{{ page.meta.image_alt | e }}">
   {% endif %}
@@ -69,7 +73,7 @@
     "description": {{ og_description | tojson }},
     "url": {{ og_url | tojson }},
     {% if page.meta.image %}
-    "image": {{ (config.site_url ~ (page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image)) | tojson }},
+    "image": {% if "://" in page.meta.image or page.meta.image.startswith("//") %}{{ page.meta.image | tojson }}{% else %}{{ (config.site_url ~ (page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image)) | tojson }}{% endif %},
     {% endif %}
     "isPartOf": {
       "@type": "WebSite",
@@ -89,7 +93,7 @@
     "url": {{ og_url | tojson }},
     "inLanguage": "pl",
     {% if page.meta.image %}
-    "image": {{ (config.site_url ~ (page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image)) | tojson }},
+    "image": {% if "://" in page.meta.image or page.meta.image.startswith("//") %}{{ page.meta.image | tojson }}{% else %}{{ (config.site_url ~ (page.meta.image[1:] if page.meta.image.startswith('/') else page.meta.image)) | tojson }}{% endif %},
     {% endif %}
     {% if page.meta.tags %}
     "keywords": {{ page.meta.tags | join(", ") | tojson }},
