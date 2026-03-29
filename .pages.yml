@@ -36,6 +36,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Zdjęcie główne
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Treść artykułu
         type: rich-text
@@ -68,6 +74,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Zdjęcie główne
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Treść artykułu
         type: rich-text
@@ -92,6 +104,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Zdjęcie historyczne
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Treść artykułu
         type: rich-text
@@ -113,6 +131,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Zdjęcie główne
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Treść artykułu
         type: rich-text
@@ -137,6 +161,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Portret / zdjęcie
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Biogram
         type: rich-text
@@ -164,6 +194,12 @@ content:
         label: Tagi
         type: string
         list: true
+      - name: image
+        label: Miniatura / skan okładki
+        type: image
+      - name: image_alt
+        label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
+        type: string
       - name: body
         label: Treść / transkrypcja
         type: rich-text

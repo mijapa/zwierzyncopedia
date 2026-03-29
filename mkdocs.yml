@@ -74,7 +74,15 @@ theme:
 plugins:
   - search:
       lang: pl
-  - tags                        # System tagów/kategorii
+  - tags:                       # System tagów/kategorii
+  - rss:                        # Kanał RSS – ułatwia odkrywanie treści przez agregatory i agentów AI
+      # Generuje: feed_rss_created.xml (nowe) i feed_rss_updated.xml (zmiany)
+      match_path: ".*"
+      date_from_meta:
+        as_creation: date
+        default_timezone: Europe/Warsaw
+      categories:
+        - tags
 
 # =============================================================================
 # Rozszerzenia Markdown
@@ -154,6 +162,8 @@ nav:
     - Jak edytować: o-projekcie/jak-edytowac.md
     - Zasady redakcyjne: o-projekcie/zasady-redakcyjne.md
 
+  - Tagi: tagi.md
+
 # =============================================================================
 # Dodatkowe ustawienia
 # =============================================================================
@@ -161,6 +171,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mijapa/zwierzyncopedia
+    - icon: material/rss
+      link: feed_rss_created.xml
+      name: Kanał RSS – nowe artykuły
 
   generator: false  # Ukrycie "Made with Material for MkDocs"
 

@@ -1,0 +1,48 @@
+# Zwierzyńcopedia
+
+> Cyfrowe repozytorium dziedzictwa Zwierzyńca – miasta-ogrodu na Roztoczu.
+
+Zwierzyńcopedia to encyklopedia poświęcona historii, architekturze, przyrodzie i ludziom Zwierzyńca – historycznego miasta-ogrodu założonego przez Ordynację Zamojską, leżącego na Roztoczu w województwie lubelskim (Polska). Projekt prowadzi Stowarzyszenie im. Aleksandry Wachniewskiej w ramach starań o nadanie historycznemu centrum Zwierzyńca statusu Pomnika Historii. Treści udostępniane na licencji CC BY-SA 4.0.
+
+## Sekcje
+
+- [Strona główna](https://mijapa.github.io/zwierzyncopedia/): Wprowadzenie i mapa treści
+- [Dziedzictwo](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/): Układ urbanistyczny, architektura rezydencjonalna, obiekty utracone
+- [Przyroda](https://mijapa.github.io/zwierzyncopedia/przyroda/): Pomniki przyrody, Stawy Echo, rzeka Wieprz, Park Środowiskowy
+- [Ludzie](https://mijapa.github.io/zwierzyncopedia/ludzie/): Biogramy ludzi związanych ze Zwierzyńcem
+- [Biblioteka](https://mijapa.github.io/zwierzyncopedia/biblioteka/): Dokumenty źródłowe, mapy historyczne, transkrypcje
+- [Indeks tagów](https://mijapa.github.io/zwierzyncopedia/tagi/): Pełny indeks tagów tematycznych
+
+## Dziedzictwo – kluczowe artykuły
+
+- [Willa Zamoyskich](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/): Letnia rezydencja Ordynacji Zamojskiej (Villa Zwierzyniec)
+- [Zarząd Ordynacji](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/architektura/zarzad-ordynacji/): Siedziba administracji Ordynacji Zamojskiej
+- [Kościół na Wodzie](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/architektura/kosciol-na-wodzie/): Barokowy kościół pw. Wniebowzięcia NMP na wyspie
+- [Osie widokowe](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/uklad-urbanistyczny/osie-widokowe/): Planistyczne osie kompozycyjne układu urbanistycznego
+- [System wodny](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/uklad-urbanistyczny/system-wodny/): Sieć stawów i kanałów tworzących układ wodny miasta
+- [Dworzec kolejowy](https://mijapa.github.io/zwierzyncopedia/dziedzictwo/utracone/dworzec-kolejowy/): Nieistniejący dworzec kolejowy – dziedzictwo utracone
+
+## Przyroda – kluczowe artykuły
+
+- [Pomniki przyrody](https://mijapa.github.io/zwierzyncopedia/przyroda/pomniki-przyrody/): Katalog pomników przyrody w Zwierzyńcu i okolicach
+- [Stawy Echo](https://mijapa.github.io/zwierzyncopedia/przyroda/stawy-echo/): Zabytkowy system stawów, siedlisko ptaków i trasy spacerowe
+- [Rzeka Wieprz](https://mijapa.github.io/zwierzyncopedia/przyroda/rzeka-wieprz/): Rzeka przepływająca przez Zwierzyniec, źródło stawów
+- [Park Środowiskowy](https://mijapa.github.io/zwierzyncopedia/przyroda/park-srodowiskowy/): Obszar zieleni miejskiej otaczający Zwierzyniec
+
+## Ludzie – kluczowe artykuły
+
+- [Aleksandra Wachniewska](https://mijapa.github.io/zwierzyncopedia/ludzie/aleksandra-wachniewska/): Patronka Stowarzyszenia, działaczka na rzecz dziedzictwa Zwierzyńca
+- [Ordynaci Zamojscy](https://mijapa.github.io/zwierzyncopedia/ludzie/ordynaci-zamojscy/): Właściciele Ordynacji Zamojskiej, fundatorzy Zwierzyńca
+
+## Biblioteka
+
+- [Dokumenty źródłowe](https://mijapa.github.io/zwierzyncopedia/biblioteka/dokumenty-zrodlowe/): Transkrypcje i skany dokumentów historycznych
+- [Mapy i plany](https://mijapa.github.io/zwierzyncopedia/biblioteka/mapy-i-plany/): Historyczne mapy i plany urbanistyczne Zwierzyńca
+
+## Informacje techniczne
+
+- Format: MkDocs Material, treści Markdown z frontmatter YAML
+- Mapa witryny: https://mijapa.github.io/zwierzyncopedia/sitemap.xml
+- Kanał RSS (nowe): https://mijapa.github.io/zwierzyncopedia/feed_rss_created.xml
+- Kanał RSS (aktualizacje): https://mijapa.github.io/zwierzyncopedia/feed_rss_updated.xml
+- Licencja: CC BY-SA 4.0
