@@ -75,12 +75,12 @@ plugins:
   - search:
       lang: pl
   - tags:                       # System tagów/kategorii
-      # Strona z indeksem tagów używa znacznika [TAGS] w docs/tagi.md
   - rss:                        # Kanał RSS – ułatwia odkrywanie treści przez agregatory i agentów AI
       # Generuje: feed_rss_created.xml (nowe) i feed_rss_updated.xml (zmiany)
       match_path: ".*"
       date_from_meta:
         as_creation: date
+        default_timezone: Europe/Warsaw
       categories:
         - tags
 

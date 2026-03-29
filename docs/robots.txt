@@ -1,3 +1,7 @@
+# UWAGA: Na GitHub Pages (project site) ten plik trafia do /zwierzyncopedia/robots.txt,
+# a nie do korzenia domeny /robots.txt. Crawlery mogą go nie znaleźć automatycznie.
+# Sitemap jest jednak wykrywalna przez Google Search Console i wpis w mkdocs.yml.
+
 User-agent: *
 Allow: /
 

@@ -7,4 +7,4 @@ description: Pełny indeks tagów Zwierzyńcopedii – przeglądaj artykuły wed
 
 Poniżej znajdziesz wszystkie tagi używane w Zwierzyńcopedii. Kliknij wybrany tag, aby zobaczyć powiązane artykuły.
 
-[TAGS]
+<!-- material/tags -->
