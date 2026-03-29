@@ -172,7 +172,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/mijapa/zwierzyncopedia
     - icon: material/rss
-      link: /feed_rss_created.xml
+      link: feed_rss_created.xml
       name: Kanał RSS – nowe artykuły
 
   generator: false  # Ukrycie "Made with Material for MkDocs"
