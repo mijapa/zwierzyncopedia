@@ -1,0 +1,41 @@
+# GitHub Actions – walidacja jakości treści Zwierzyńcopedia
+# Uruchamiana przy każdym Pull Request do gałęzi main
+
+name: Walidacja jakości treści
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+
+jobs:
+  markdownlint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozytorium
+        uses: actions/checkout@v4
+
+      - name: Walidacja składni Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v17
+        with:
+          globs: "docs/**/*.md README.md"
+          config: ".markdownlint.yml"
+
+  yamllint:
+    name: YAML Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozytorium
+        uses: actions/checkout@v4
+
+      - name: Walidacja plików YAML
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          config_file: .yamllint.yml
+          # mkdocs.yml jest wykluczony – używa tagów !!python/name: nieobsługiwanych przez yamllint
+          file_or_dir: ".yamllint.yml .markdownlint.yml .pre-commit-config.yaml .pages.yml .github/workflows/"
+          strict: false
