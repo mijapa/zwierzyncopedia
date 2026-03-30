@@ -15,10 +15,10 @@ MD009: true
 # Wymuszanie twardych łamań linii w prozie encyklopedycznej utrudnia edycję i historię zmian
 MD013: false
 
-# MD025 – single-title: front_matter_title wyłączone
-# Starlight generuje H1 z title: w frontmatter; dozwolone jest dodatkowe H1 w treści
+# MD025 – single-title: front_matter_title ustawione na "title"
+# Starlight generuje H1 z title: w frontmatter; dodatkowe H1 w treści jest niedozwolone (SEO/a11y)
 MD025:
-  front_matter_title: ""
+  front_matter_title: "title"
 
 # MD030 – list-marker-space
 MD030:

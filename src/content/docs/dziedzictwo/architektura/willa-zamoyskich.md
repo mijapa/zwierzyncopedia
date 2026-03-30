@@ -1,13 +1,11 @@
 ---
-title: Willa Zamoyskich
+title: Willa Zamoyskich (Villa Zwierzyniec)
 description: Historia i architektura Willi Zamoyskich w Zwierzyńcu – Villa Zwierzyniec
 tags:
   - architektura
   - Ordynacja Zamojska
   - rezydencja
 ---
-
-# Willa Zamoyskich (Villa Zwierzyniec)
 
 :::caution[Artykuł w przygotowaniu]
 Ten artykuł czeka na uzupełnienie treścią na podstawie „Villa Zwierzyniec – Studium". [Pomóż go napisać!](/zwierzyncopedia/o-projekcie/jak-edytowac/)

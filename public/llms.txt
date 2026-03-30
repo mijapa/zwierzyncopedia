@@ -41,5 +41,5 @@ Zwierzyńcopedia to encyklopedia poświęcona historii, architekturze, przyrodzi
 ## Informacje techniczne
 
 - Format: Astro Starlight, treści Markdown z frontmatter YAML
-- Mapa witryny: https://mijapa.github.io/zwierzyncopedia/sitemap.xml
+- Mapa witryny: https://mijapa.github.io/zwierzyncopedia/sitemap-index.xml
 - Licencja: CC BY-SA 4.0
