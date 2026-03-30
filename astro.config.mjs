@@ -41,11 +41,6 @@ export default defineConfig({
           label: 'GitHub',
           href: 'https://github.com/mijapa/zwierzyncopedia',
         },
-        {
-          icon: 'rss',
-          label: 'RSS',
-          href: 'https://mijapa.github.io/zwierzyncopedia/feed_rss_created.xml',
-        },
       ],
       customCss: ['./src/styles/custom.css'],
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },

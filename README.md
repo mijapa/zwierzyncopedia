@@ -17,7 +17,7 @@ Encyklopedia poświęcona historii, architekturze, przyrodzie i ludziom [Zwierzy
 
 ### Wymagania
 
-- Node.js 22+
+- Node.js >= 22.12.0
 - npm
 
 ### Instalacja
