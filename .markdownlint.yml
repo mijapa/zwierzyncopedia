@@ -15,20 +15,20 @@ MD009: true
 # Wymuszanie twardych łamań linii w prozie encyklopedycznej utrudnia edycję i historię zmian
 MD013: false
 
-# MD025 – single-title: front_matter_title wyłączone, by nie kolidować z H1 w treści
-# Pliki MkDocs mają title: w nagłówku YAML i H1 w treści – to prawidłowy wzorzec
+# MD025 – single-title: front_matter_title ustawione na "title"
+# Starlight generuje H1 z title: w frontmatter; dodatkowe H1 w treści jest niedozwolone (SEO/a11y)
 MD025:
-  front_matter_title: ""
+  front_matter_title: "title"
 
-# MD030 – list-marker-space: Material for MkDocs używa 3 spacji po "-" w grid cards
+# MD030 – list-marker-space
 MD030:
   ul_single: 1
-  ul_multi: 3
+  ul_multi: 1
   ol_single: 1
   ol_multi: 1
 
 # MD033 – no-inline-html: zmodyfikowana – dozwolone wybrane znaczniki HTML
-# Potrzebne do zaawansowanych komponentów Material for MkDocs
+# Potrzebne do komponentów Starlight w plikach MDX
 MD033:
   allowed_elements:
     - div
@@ -40,7 +40,7 @@ MD033:
     - abbr
 
 # MD036 – no-emphasis-as-heading: wyłączona
-# Pogrubiony tekst jako dekoracyjny podtytuł jest prawidłowym wzorcem w MkDocs
+# Pogrubiony tekst jako dekoracyjny podtytuł jest prawidłowym wzorcem
 MD036: false
 
 # MD041 – first-line-heading: każdy plik musi zaczynać się od nagłówka lub bloku front-matter

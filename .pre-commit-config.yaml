@@ -10,7 +10,6 @@ repos:
         args: [--markdown-linebreak-ext=md]
       - id: end-of-file-fixer
       - id: check-yaml
-        exclude: '^mkdocs\.yml$'  # mkdocs.yml używa tagów !!python/name: nieobsługiwanych przez safe_load
       - id: check-merge-conflict
       - id: mixed-line-ending
         args: [--fix=lf]
@@ -26,4 +25,3 @@ repos:
     hooks:
       - id: yamllint
         args: [--config-file, .yamllint.yml]
-        exclude: '^mkdocs\.yml$'  # mkdocs.yml używa tagów !!python/name: nieobsługiwanych przez yamllint

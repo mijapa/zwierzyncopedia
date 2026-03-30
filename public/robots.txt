@@ -1,0 +1,10 @@
+# UWAGA: Na GitHub Pages (project site) ten plik trafia do /zwierzyncopedia/robots.txt,
+# a nie do korzenia domeny /robots.txt. Crawlery mogą go nie znaleźć automatycznie.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mijapa.github.io/zwierzyncopedia/sitemap-index.xml
+
+# Plik dla agentów AI opisujący strukturę witryny:
+# https://mijapa.github.io/zwierzyncopedia/llms.txt

@@ -13,7 +13,7 @@ permissions:
   pages: write
   id-token: write
 
-# Zapobiega równoległym deploymentsm
+# Zapobiega równoległym deploymentom
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -25,29 +25,22 @@ jobs:
       - name: Checkout repozytorium
         uses: actions/checkout@v4
 
-      - name: Konfiguracja Python
-        uses: actions/setup-python@v5
+      - name: Konfiguracja Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
-
-      - name: Cache zależności pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          node-version: 22
+          cache: npm
 
       - name: Instalacja zależności
-        run: pip install -r requirements.txt
+        run: npm ci
 
       - name: Budowanie strony
-        run: mkdocs build --strict
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: dist
 
   deploy:
     environment:

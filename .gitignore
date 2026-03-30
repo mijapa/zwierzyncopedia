@@ -1,7 +1,11 @@
-# MkDocs build output
-site/
+# Astro build output
+dist/
+.astro/
 
-# Python
+# Node.js
+node_modules/
+
+# Python (pre-commit)
 __pycache__/
 *.py[cod]
 *.egg-info/

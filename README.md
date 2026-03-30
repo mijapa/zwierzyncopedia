@@ -8,7 +8,7 @@ Encyklopedia poświęcona historii, architekturze, przyrodzie i ludziom [Zwierzy
 
 | Element | Technologia |
 |---------|-------------|
-| Silnik | [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) |
+| Silnik | [Astro](https://astro.build/) + [Starlight](https://starlight.astro.build/) |
 | Hosting | [GitHub Pages](https://pages.github.com/) |
 | CI/CD | [GitHub Actions](.github/workflows/deploy.yml) |
 | CMS | [Pages CMS](https://pagescms.org/) |
@@ -17,8 +17,8 @@ Encyklopedia poświęcona historii, architekturze, przyrodzie i ludziom [Zwierzy
 
 ### Wymagania
 
-- Python 3.10+
-- pip
+- Node.js >= 22.12.0
+- npm
 
 ### Instalacja
 
@@ -28,21 +28,21 @@ git clone https://github.com/mijapa/zwierzyncopedia.git
 cd zwierzyncopedia
 
 # Instalacja zależności
-pip install -r requirements.txt
+npm install
 
 # Uruchomienie serwera deweloperskiego
-mkdocs serve
+npm run dev
 ```
 
-Strona będzie dostępna pod adresem `http://127.0.0.1:8000/`.
+Strona będzie dostępna pod adresem `http://localhost:4321/zwierzyncopedia/`.
 
 ### Budowanie strony
 
 ```bash
-mkdocs build
+npm run build
 ```
 
-Wygenerowany HTML trafi do katalogu `site/`.
+Wygenerowany HTML trafi do katalogu `dist/`.
 
 ## Struktura projektu
 
@@ -50,29 +50,34 @@ Wygenerowany HTML trafi do katalogu `site/`.
 zwierzyncopedia/
 ├── .github/
 │   └── workflows/
-│       └── deploy.yml          # Automatyczna publikacja na GitHub Pages
-├── docs/
-│   ├── index.md                # Strona główna
-│   ├── dziedzictwo/            # Sekcja: Dziedzictwo kulturowe
-│   │   ├── uklad-urbanistyczny/
-│   │   ├── architektura/
-│   │   └── utracone/
-│   ├── przyroda/               # Sekcja: Przyroda
-│   ├── ludzie/                 # Sekcja: Biogramy
-│   ├── biblioteka/             # Sekcja: Dokumenty źródłowe
-│   ├── o-projekcie/            # Sekcja: O projekcie + poradniki
-│   └── assets/
-│       └── images/             # Zdjęcia, skany, mapy
-├── overrides/                  # Nadpisania motywu Material
+│       ├── deploy.yml          # Automatyczna publikacja na GitHub Pages
+│       └── lint.yml            # Walidacja jakości treści
+├── src/
+│   ├── content/
+│   │   └── docs/
+│   │       ├── index.mdx       # Strona główna
+│   │       ├── dziedzictwo/    # Sekcja: Dziedzictwo kulturowe
+│   │       │   ├── uklad-urbanistyczny/
+│   │       │   ├── architektura/
+│   │       │   └── utracone/
+│   │       ├── przyroda/       # Sekcja: Przyroda
+│   │       ├── ludzie/         # Sekcja: Biogramy
+│   │       ├── biblioteka/     # Sekcja: Dokumenty źródłowe
+│   │       └── o-projekcie/    # Sekcja: O projekcie + poradniki
+│   ├── assets/
+│   │   └── images/             # Logo, zdjęcia
+│   └── styles/
+│       └── custom.css          # Niestandardowe style
+├── public/                     # Pliki statyczne (favicon, robots.txt, llms.txt)
 ├── .pages.yml                  # Konfiguracja Pages CMS
-├── mkdocs.yml                  # Konfiguracja MkDocs
-├── requirements.txt            # Zależności Python
+├── astro.config.mjs            # Konfiguracja Astro + Starlight
+├── package.json                # Zależności Node.js
 └── README.md
 ```
 
 ## Jak pomóc
 
-Sprawdź [poradnik edycji](docs/o-projekcie/jak-edytowac.md) – możesz edytować hasła przez przeglądarkę dzięki Pages CMS!
+Sprawdź [poradnik edycji](src/content/docs/o-projekcie/jak-edytowac.md) – możesz edytować hasła przez przeglądarkę dzięki Pages CMS!
 
 ## Licencja
 
