@@ -22,7 +22,7 @@ jobs:
       - name: Walidacja składni Markdown
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
-          globs: "docs/**/*.md README.md"
+          globs: "src/content/docs/**/*.md src/content/docs/**/*.mdx README.md"
           config: ".markdownlint.yml"
 
   yamllint:
@@ -36,6 +36,6 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           config_file: .yamllint.yml
-          # mkdocs.yml jest wykluczony – używa tagów !!python/name: nieobsługiwanych przez yamllint
+          # Pliki YAML do walidacji
           file_or_dir: ".yamllint.yml .markdownlint.yml .pre-commit-config.yaml .pages.yml .github/workflows/"
           strict: false

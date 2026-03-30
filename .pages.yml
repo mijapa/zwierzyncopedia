@@ -5,7 +5,7 @@
 
 # Lokalizacja plików multimedialnych (zdjęcia, skany, mapy)
 media:
-  input: docs/assets/images
+  input: src/assets/images
   output: /assets/images
   categories:
     - label: Architektura
@@ -22,7 +22,7 @@ content:
   # ── Dziedzictwo: Układ urbanistyczny ──────────────────────────────────
   - name: uklad-urbanistyczny
     label: Układ urbanistyczny
-    path: docs/dziedzictwo/uklad-urbanistyczny
+    path: src/content/docs/dziedzictwo/uklad-urbanistyczny
     type: collection
     fields:
       - name: title
@@ -49,7 +49,7 @@ content:
   # ── Dziedzictwo: Architektura ─────────────────────────────────────────
   - name: architektura
     label: Architektura
-    path: docs/dziedzictwo/architektura
+    path: src/content/docs/dziedzictwo/architektura
     type: collection
     fields:
       - name: title
@@ -87,7 +87,7 @@ content:
   # ── Dziedzictwo utracone ──────────────────────────────────────────────
   - name: utracone
     label: Dziedzictwo utracone
-    path: docs/dziedzictwo/utracone
+    path: src/content/docs/dziedzictwo/utracone
     type: collection
     fields:
       - name: title
@@ -117,7 +117,7 @@ content:
   # ── Przyroda ──────────────────────────────────────────────────────────
   - name: przyroda
     label: Przyroda
-    path: docs/przyroda
+    path: src/content/docs/przyroda
     type: collection
     fields:
       - name: title
@@ -144,7 +144,7 @@ content:
   # ── Ludzie ────────────────────────────────────────────────────────────
   - name: ludzie
     label: Ludzie
-    path: docs/ludzie
+    path: src/content/docs/ludzie
     type: collection
     fields:
       - name: title
@@ -174,7 +174,7 @@ content:
   # ── Biblioteka ────────────────────────────────────────────────────────
   - name: biblioteka
     label: Biblioteka
-    path: docs/biblioteka
+    path: src/content/docs/biblioteka
     type: collection
     fields:
       - name: title
