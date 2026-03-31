@@ -85,6 +85,45 @@ h4 {
   border-radius: 0.5rem;
 }
 
+/* ── Card icons – paleta Stowarzyszenia ──────────────────────────────────── */
+.card {
+  --sl-card-border: var(--sl-color-accent);
+  --sl-card-bg: var(--sl-color-accent-low);
+}
+.card:nth-child(4n + 1) {
+  --sl-card-border: #036016;
+  --sl-card-bg: #e8f5ec;
+}
+.card:nth-child(4n + 2) {
+  --sl-card-border: #058e3f;
+  --sl-card-bg: #edf7f0;
+}
+.card:nth-child(4n + 3) {
+  --sl-card-border: #04773b;
+  --sl-card-bg: #e6f4eb;
+}
+.card:nth-child(4n + 4) {
+  --sl-card-border: #03440c;
+  --sl-card-bg: #e4f2e6;
+}
+
+:root[data-theme='dark'] .card:nth-child(4n + 1) {
+  --sl-card-border: #aaf683;
+  --sl-card-bg: #0a1f0d;
+}
+:root[data-theme='dark'] .card:nth-child(4n + 2) {
+  --sl-card-border: #34a85a;
+  --sl-card-bg: #071f10;
+}
+:root[data-theme='dark'] .card:nth-child(4n + 3) {
+  --sl-card-border: #7ce668;
+  --sl-card-bg: #091e0c;
+}
+:root[data-theme='dark'] .card:nth-child(4n + 4) {
+  --sl-card-border: #58cc48;
+  --sl-card-bg: #081c0a;
+}
+
 /* ── Dark mode link color ────────────────────────────────────────────────── */
 :root[data-theme='dark'] .sl-markdown-content a {
   color: #aaf683;
