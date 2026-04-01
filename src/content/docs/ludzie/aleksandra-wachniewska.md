@@ -14,6 +14,8 @@ sidebar:
     variant: caution
 ---
 
+![Aleksandra Wachniewska. Mal. Lucyna Matławska-Patyk.](/zwierzyncopedia/assets/images/studium/wachniewska-portret.jpg)
+
 **Aleksandra Wachniewska** z Fejfer-Stankowskich (25 września 1902, Florianka – 14 października 1989, Zwierzyniec) — artystka malarka, graficzka, nauczycielka, społeczna obrończyni przyrody i zabytków Roztocza. Współtwórczyni Roztoczańskiego Parku Narodowego. Patronka Stowarzyszenia Jej Imienia, działającego na rzecz ochrony dziedzictwa kulturowego i przyrodniczego Zwierzyńca.
 
 Określana jako „renesansowa wszechstronna osobowość godna przyrodniczego i odrodzeniowego dziedzictwa Kanclerza [Jana Zamoyskiego](/zwierzyncopedia/ludzie/jan-zamoyski/)"[^1], w swoich obrazach utrwaliła niepowtarzalną jesienną paletę barw roztoczańskich krajobrazów i portretów drzew, a czynem — ocaliła przed dewastacją ostatnie skrawki roztoczańskiej puszczy.
@@ -33,6 +35,8 @@ Studia artystyczne w Szkole Sztuk Pięknych w Warszawie ze specjalnością z gra
 W pierwszych dniach wojny 1939 roku wróciła do Zwierzyńca i zaangażowała się w działalność konspiracyjną — pracowała przy wydawnictwach prasy podziemnej. Zaprojektowała i wykonała sztandar 9 Pułku Piechoty Armii Krajowej. Nie odłożyła jednak pędzla — powstawały kolejne pejzaże.[^3]
 
 ## Dorobek artystyczny
+
+![Jesienny pejzaż z drzewami. Mal. Aleksandra Wachniewska.](/zwierzyncopedia/assets/images/studium/wachniewska-obraz.jpg)
 
 Spod jej ręki wyszły cykle rysunków tuszem przedstawiające głównie drzewa: Teka Przemyska, Teka Parku Narodowego, Teka Turkowicka. Powstawały prace poplenerowe w Ojcowie, Kraśniku i Kazimierzu. Po wyprawie do Bułgarii powstała Teka Bułgarska. Wystawiała obrazy z warszawską Grupą Twórczą „Zachęta" — wystawa z tą grupą prezentowana była również w Londynie, z jej osobistym udziałem.[^4]
 
@@ -73,6 +77,8 @@ Park Narodowy utworzono 10 maja 1974 roku. Jego powstanie, które w ogromnej mie
 ## Ostatnie lata i pamięć
 
 Aleksandra Wachniewska zmarła 14 października 1989 roku, idąc ukochaną Aleją Marysieńki w Zwierzyńcu.[^10]
+
+![Ganek domu Aleksandry Wachniewskiej przy ulicy Jej imienia w Zwierzyńcu. Fot. MJP.](/zwierzyncopedia/assets/images/studium/wachniewska-dom.jpg)
 
 Jej dom przy dzisiejszej ulicy Aleksandry Wachniewskiej w Zwierzyńcu — budynek z lat 30.–40. XIX wieku, w którym mieszkała przez niemal 60 lat — jest przedmiotem starań o wpis do rejestru zabytków Województwa Lubelskiego.[^11]
 
