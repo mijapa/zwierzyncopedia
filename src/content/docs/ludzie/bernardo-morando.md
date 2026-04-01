@@ -1,0 +1,71 @@
+---
+title: Bernardo Morando
+description: Biogram Bernardo Moranda – włoskiego architekta, twórcy Zamościa i prawdopodobnego projektanta willi zwierzynieckiej
+tags:
+  - ludzie
+  - architektura
+  - renesans
+banner:
+  content: "🚧 Ten artykuł nie został jeszcze zrecenzowany i może zawierać błędy."
+sidebar:
+  badge:
+    text: Szkic
+    variant: caution
+---
+
+**Bernardo Morando** (ok. 1540, Padwa lub Wenecja – 1600, Zamość) — włoski architekt padewskiego pochodzenia, nadworny architekt [Jana Zamoyskiego](/zwierzyncopedia/ludzie/jan-zamoyski/), twórca *miasta idealnego* Zamościa i prawdopodobny projektant [willi zwierzynieckiej](/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/).
+
+## Przed Polską
+
+Morando wywodził się z rodziny o doświadczeniu budowlanym zdobytym w europejskich realizacjach. Zanim przybył na dwór królewski, zwrócił uwagę swoimi dokonaniami.[^1] Według hipotezy profesor Jolanty Putkowskiej, Morando mógł być związany z projektem królewskiej willi Anny Jagiellonki w Ujazdowie pod Warszawą — modelowego polskiego *założenia villowego*, które stało się bezpośrednim wzorcem dla Zwierzyńca.[^2]
+
+## Służba u Zamoyskiego
+
+Jan Zamoyski zatrudnił Moranda w 1578 roku — niemal natychmiast po weselu w willi ujazdowskiej, gdzie doświadczył renesansowego wzorca *la villa ideale*. Już w 1579 roku związał architekta **dożywotnim kontraktem**, zapewniając sobie wyłączność na jego kapitał intelektualny i artystyczny.[^3]
+
+Sekwencja zdarzeń nie była przypadkowa:
+
+1. **1578** — Zamoyski przeżywa prapremierę *Odprawy posłów greckich* w willi ujazdowskiej
+2. **1578** — natychmiast zatrudnia Moranda (1 lipca, Lwów)
+3. **1579** — wiąże go kontraktem dożywotnim (Lwów)
+
+Zamoyski, świadomy skali swoich zamierzeń, pozyskał jednego z najlepszych specjalistów w Rzeczypospolitej. Jako dysponent stawiał twórcom bardzo wysokie wymagania — określał treść każdego dzieła, często rozstrzygał o wyglądzie wielu detali, bacząc, by forma uwidaczniała wzniosłe idee i była zgodna z klasyczną teorią sztuki.[^4]
+
+## Najważniejsze realizacje
+
+### Zamość — *la città ideale*
+
+W latach 1578–1600 Morando zaprojektował i nadzorował budowę *miasta idealnego*:
+
+- plan urbanistyczny Zamościa (rozmierzany w terenie od 1580)
+- Brama Lubelska, arsenał, pałac
+- ratusz, kolegiata, Akademia Zamojska, bursa, infułatka
+- fortyfikacje
+- Brama Lwowska (1597)
+- kamienice[^5]
+
+W latach 1591–1593 Morando pełnił urząd rajcy i burmistrza Zamościa, a także otrzymał nobilitację.[^6]
+
+### Zwierzyniec — *la villa ideale*
+
+Istnieje logiczne domniemanie bezpośredniego udziału Moranda w zaprojektowaniu *założenia villowego* w Zwierzyńcu. Brak wprawdzie dokumentu potwierdzającego autorstwo, lecz analogiczne porównanie do planu idealnego Zamościa jest wymowne — obie realizacje łączyła wspólna zasada kompozycyjna oparta na idealnej geometrii (krzyż grecki, kwadrat, koło).[^7]
+
+Projektant *villi* objął myślą planowanie i wznoszenie budowli od wyboru korzystnego usytuowania poczynając, po mistrzowskie wpisanie całości w krajobraz — typowe renesansowe podejście humanistycznej filozofii ogrodu, współdziałania sztuki i natury.[^8]
+
+## Spuścizna
+
+Morando był w Ordynacji Zamojskiej głównym nosicielem renesansowej myśli architektonicznej. Jego projekty powstawały w duchu zasady: *Architekt projektując całość, ma w swoim dziele naśladować działania Stwórcy, a więc tworzyć tak, że nie można nic dodać, ani ująć, ani zmienić, żeby nie popsuć całości.*[^9]
+
+Zamość — dzieło Moranda — jest dziś obiektem Światowego Dziedzictwa UNESCO.
+
+---
+
+[^1]: L. Matławska-Patyk, M. Patyk, *Villa Restituta w Zwierzyńcu. Studium*, Zwierzyniec 2025, cz. II.3.
+[^2]: J. Putkowska, hipoteza o autorstwie willi ujazdowskiej; Villa Restituta, cz. II.4.
+[^3]: Villa Restituta, cz. II.4.
+[^4]: Villa Restituta, cz. II.3.
+[^5]: Villa Restituta, Tablica synchroniczna.
+[^6]: Villa Restituta, Tablica synchroniczna.
+[^7]: Villa Restituta, cz. III.1; J. Kowalczyk, *Ideologiczne aspekty urbanistyki Zamościa*.
+[^8]: Villa Restituta, cz. III.1.
+[^9]: Zasada renesansowa, cyt. w Villa Restituta, cz. II.3.
