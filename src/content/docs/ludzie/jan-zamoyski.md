@@ -13,6 +13,8 @@ sidebar:
     variant: caution
 ---
 
+![Jan Zamoyski (1542–1605), kanclerz i hetman wielki koronny. Rycina G. Brücknera, 1594.](/zwierzyncopedia/assets/images/studium/jan-zamoyski-portret.png)
+
 **Jan Saryusz Zamoyski** (19 marca 1542, Skokówka – 3 czerwca 1605, Zamość) — kanclerz wielki koronny, hetman wielki koronny, I ordynat zamojski (od 1589). Fundator *miasta idealnego* Zamościa i *willi idealnej* w Zwierzyńcu. Jeden z najwybitniejszych mężów stanu Rzeczypospolitej Obojga Narodów, zaliczony przez Hagiografię Polską w poczet postaci będących wzorem pobożności.[^1]
 
 Postać Jana Zamoyskiego jest kluczem do zrozumienia genezy Zwierzyńca. Nie była to realizacja przypadkowa, lecz głęboko przemyślana, integralna część jego życiowego projektu — wynikająca wprost z edukacji, osobistej erudycji, renesansowej filozofii oraz ambicji politycznych.

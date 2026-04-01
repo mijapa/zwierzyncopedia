@@ -13,6 +13,8 @@ sidebar:
     variant: caution
 ---
 
+![Bernardo Morando (ok. 1540–1600). Rycina z 1644 r.](/zwierzyncopedia/assets/images/studium/bernardo-morando-rycina.png)
+
 **Bernardo Morando** (ok. 1540, Padwa lub Wenecja – 1600, Zamość) — włoski architekt padewskiego pochodzenia, nadworny architekt [Jana Zamoyskiego](/zwierzyncopedia/ludzie/jan-zamoyski/), twórca *miasta idealnego* Zamościa i prawdopodobny projektant [willi zwierzynieckiej](/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/).
 
 ## Przed Polską

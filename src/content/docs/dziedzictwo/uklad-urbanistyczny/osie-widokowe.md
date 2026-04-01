@@ -19,6 +19,8 @@ sidebar:
 
 Na teren przyszłej willi nałożono trzy nakładające się figury geometryczne — tę samą zasadę kompozycyjną, którą Jerzy Kowalczyk wykazał w odniesieniu do planu Zamościa:
 
+![Renesansowy model geometryczny: krzyż grecki, kwadrat i koło widnokręgu. Oprac. L. Matławska-Patyk, M. Patyk.](/zwierzyncopedia/assets/images/studium/model-geometryczny.png)
+
 | Figura | Funkcja | Znaczenie |
 |--------|---------|-----------|
 | **Krzyż grecki** | Orientacja względem stron świata | Zorientowany *„pięć na trzynastą"* — 30° na wschód od osi północ–południe, co zapewniało optymalne nasłonecznienie i przewietrzanie *podług nieba polskiego* |
@@ -44,6 +46,8 @@ Za III ordynata *Sobiepana* i [Marysieńki](/zwierzyncopedia/ludzie/maria-kazimi
 ## Wnętrze krajobrazowe
 
 [Jan Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/) wybrał lokację w rozległej pradolinie rzeki Wieprz, okolonej wzgórzami tworzącymi naturalne zamknięcie widokowe:
+
+![Lokacja idealnej willi — obraz mentalny wnętrza krajobrazowego pradoliny Wieprza. Oprac. L. Matławska-Patyk, M. Patyk.](/zwierzyncopedia/assets/images/studium/lokacja-idealnej-willi.png)
 
 - **Bukowa Góra** — na południowym zachodzie, domknięcie mediany ogrodowej
 - **Kamienna Góra** — na północnym wschodzie

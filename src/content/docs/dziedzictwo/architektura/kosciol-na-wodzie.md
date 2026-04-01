@@ -15,6 +15,8 @@ sidebar:
 
 **Kościół na Wodzie** — kościół pw. św. Jana Nepomucena w Zwierzyńcu, wzniesiony w latach 1741–1747 na wyspie pośród stawu kościelnego, z fundacji [VII ordynata Tomasza Antoniego Zamoyskiego](/zwierzyncopedia/ludzie/tomasz-antoni-zamoyski/). Jeden z najbardziej rozpoznawalnych zabytków Roztocza i wyjątkowy przykład architektury baroku kontrreformacji w Polsce.
 
+![Fasada kościoła na wodzie pw. św. Jana Nepomucena. Rys. K. Majewski z zespołem, Zwierzyniec. Studium historyczno-urbanistyczne, PP PKZ O/Lublin 1979.](/zwierzyncopedia/assets/images/studium/kosciol-na-wodzie-fasada.png)
+
 ## Fundacja i budowa
 
 Tomasz Antoni Zamoyski — ordynat-architekt, sam zaprojektował kościół jako wotum. Inspiracją była fasada rzymskiego kościoła *Il Gesu* (projekt Giovanniego Battisty della Porty), ale z wyraźnie polskim i świeckim charakterem — długa elewacja frontowa pokryta francuskim dachem mansardowym *sprawia wrażenie budowli pałacowej*, jak stwierdził profesor Jerzy Kowalczyk.[^1]
@@ -36,6 +38,10 @@ Fasada wyraźnie nawiązuje do schematu *Il Gesu* w partii środkowej, jednak d�
 Wnętrze pokrył freskami **Łukasz Smuglewicz** — mistrz iluzjonistycznego malarstwa architektury i kompozycji figuralnych. Zachowane malowidła obejmują m.in. scenę *Świętego Jana Nepomucena* oraz alegorię *Wiary*. Freski przeszły konserwację w 2002 roku.[^5]
 
 ## Kontekst w układzie villowym
+
+![Fresk Łukasza Smuglewicza — Święty Jan Nepomucen, obraz ołtarzowy po konserwacji 2002 r. Fot. M. J. Patyk.](/zwierzyncopedia/assets/images/studium/kosciol-fresk-nepomucen.png)
+
+![Fresk Łukasza Smuglewicza — Alegoria Wiary. Fot. M. J. Patyk.](/zwierzyncopedia/assets/images/studium/kosciol-fresk-wiara.png)
 
 Kościół *na wodzie* stanowi trzecią wielką warstwę stylistyczną w [ewolucji założenia villowego](/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/#ewolucja--architektoniczny-palimpsest) — po renesansie włoskim I ordynata i renesansie francuskim Marysieńki. Barok włoski Tomasza Antoniego wzmocnił kanwę *układu villowego*, nie zacierając jego renesansowych osi kompozycyjnych.[^6]
 

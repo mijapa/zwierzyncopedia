@@ -31,6 +31,8 @@ Wnętrza pokrył freskami **Łukasz Smuglewicz** — mistrz iluzjonistycznego ma
 
 Profesor Kowalczyk odnotował, że długa elewacja frontowa kościoła pokryta francuskim dachem mansardowym *sprawia wrażenie budowli pałacowej* i ma wybitnie świecki charakter — poza czytelnym wzorcem *Il Gesu* w części środkowej.[^5]
 
+![Hipotetyczna rekonstrukcja układu barokowego za czasów VII ordynata. Oprac. L. Matławska-Patyk, M. Patyk.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-uklad-barokowy.png)
+
 ### Kwatery ogrodowe
 
 Ordynat projektował wzory kwater ogrodowych zarówno w Zwierzyńcu, jak i w Klemensowie — zachowały się rysunki w jego dziele *Ogrodnictwo*.[^6]

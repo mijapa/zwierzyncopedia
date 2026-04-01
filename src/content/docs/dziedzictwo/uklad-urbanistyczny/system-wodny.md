@@ -48,6 +48,8 @@ XI ordynatowa Maria z Granowskich stworzyła ogród sentymentalny na kanwie wcze
 
 ## Mapa józefińska (1779–1783)
 
+![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](/zwierzyncopedia/assets/images/studium/mapa-jozefinska-zwierzyniec.png)
+
 Mapa ppłk. Friedricha von Miega rejestruje stan systemu wodnego: drewnianą willę, stawy, suchy kanał (zaznaczony na terenie zwierzyńczyka), drogę po grobli zamykającej wody południowego stawu villowego. Staw villowy swym przelewem zasilał staw kościelny przez kanał ulgi — dziś zasypany, co rodzi konsekwencje zawilgoceń fundamentów pobliskich oficyn.[^8]
 
 ## Stan obecny

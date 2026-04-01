@@ -27,6 +27,8 @@ Założenie villowe w Zwierzyńcu nie było dziełem przypadku, lecz realizacją
 
 Bezpośrednim wzorcem stała się królewska willa Anny Jagiellonki w Ujazdowie pod Warszawą, wzniesiona ok. 1573 roku z drewna modrzewiowego. Znana z precyzyjnego planu inwentaryzacyjnego Aleksandra Albertiniego (1606), obejmowała ona okazały piętrowy budynek, trzy ogrody *all'italiana*, sadzawki, kanał z mostkiem oraz rozległy, ogrodzony zwierzyniec z altaną myśliwską pośrodku.[^3]
 
+![Założenie królewskiej villi ujazdowskiej Anny Jagiellonki na planie A. Albertiniego, 1606. Domena publiczna.](/zwierzyncopedia/assets/images/studium/villa-ujazdow-plan-albertini.png)
+
 Zamoyski poznał willę ujazdowską osobiście — 12 stycznia 1578 roku odbyło się tam jego wesele z Krystyną Radziwiłłówną, uświetnione prapremierą *Odprawy posłów greckich* Jana Kochanowskiego przed majestatem króla Stefana Batorego i królowej Anny Jagiellonki. Do realizacji zamysłu potrzebował architekta — i szybko go pozyskał. Już w 1578 roku zatrudnił Bernardo Morando, włoskiego architekta padewskiego pochodzenia, którego według hipotezy profesor Jolanty Putkowskiej łączyć można z projektem willi ujazdowskiej. W 1579 roku Zamoyski związał Moranda dożywotnim kontraktem.[^4]
 
 Sekwencja zdarzeń pozwala odtworzyć logikę fundatora:
@@ -56,6 +58,8 @@ Centralna kompozycja oparta została na dwóch przecinających się osiach:
 - **mediana ogrodowa** — oś ogrodów kwaterowych, łącząca willę z odległymi ogrodami na Bukowej Górze duktem leśnym
 
 Otoczenie krajobrazowe — dno doliny zamknięte wzgórzami — powiązano osiami widokowymi, tworząc wnętrze architektoniczno-krajobrazowe o wyjątkowych walorach.[^8]
+
+![Hipotetyczna rekonstrukcja planu renesansowego założenia villowego z 1. połowy XVII w. Oprac. L. Matławska-Patyk, M. Patyk, 1986.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-plan-xvii.png)
 
 ## Budynek — modrzewiowa willa
 

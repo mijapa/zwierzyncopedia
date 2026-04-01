@@ -22,6 +22,8 @@ Cztery murowane oficyny wzniesiono prawdopodobnie według projektu **Ferdynanda 
 
 XI ordynat *z sentymentem potraktował wiekową willę, zachował ją z uwagi na starożytność* — nowe oficyny nie zastąpiły starego domu, lecz tworzyły dlań godną oprawę, podkreślając dostojność budynku pełnego pamiątek i żywej tradycji.[^2]
 
+![Hipotetyczna rekonstrukcja — maniera sentymentalna za czasów XI ordynata. Oprac. L. Matławska-Patyk, M. Patyk.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
+
 ## Funkcje pierwotne
 
 W czasach ordynatów oficyny pełniły funkcje rezydencjonalne i gospodarcze — uzupełniały willę o dodatkowe pomieszczenia mieszkalne, kuchnię dworską i zaplecze administracyjne.

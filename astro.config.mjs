@@ -1,11 +1,15 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkFigureCaption from '@microflash/remark-figure-caption';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mijapa.github.io',
   base: '/zwierzyncopedia',
+  markdown: {
+    remarkPlugins: [remarkFigureCaption],
+  },
   integrations: [
     starlight({
       title: 'Zwierzyńcopedia',
