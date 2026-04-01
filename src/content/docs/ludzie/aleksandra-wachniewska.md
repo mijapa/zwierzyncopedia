@@ -1,11 +1,95 @@
 ---
 title: Aleksandra Wachniewska
-description: Biogram Aleksandry Wachniewskiej – patronki Stowarzyszenia, działaczki na rzecz Zwierzyńca
+description: Biogram Aleksandry Wachniewskiej – artystki malarki Roztocza, społecznej obrończyni przyrody i współtwórczyni Roztoczańskiego Parku Narodowego
 tags:
   - ludzie
   - Stowarzyszenie
+  - przyroda
+  - Ordynacja Zamojska
+banner:
+  content: "🚧 Ten artykuł nie został jeszcze zrecenzowany i może zawierać błędy."
+sidebar:
+  badge:
+    text: Szkic
+    variant: caution
 ---
 
-:::caution[Artykuł w przygotowaniu]
-Ten artykuł czeka na uzupełnienie treścią. [Pomóż go napisać!](/zwierzyncopedia/o-projekcie/jak-edytowac/)
-:::
+**Aleksandra Wachniewska** z Fejfer-Stankowskich (25 września 1902, Florianka – 14 października 1989, Zwierzyniec) — artystka malarka, graficzka, nauczycielka, społeczna obrończyni przyrody i zabytków Roztocza. Współtwórczyni Roztoczańskiego Parku Narodowego. Patronka Stowarzyszenia Jej Imienia, działającego na rzecz ochrony dziedzictwa kulturowego i przyrodniczego Zwierzyńca.
+
+Określana jako „renesansowa wszechstronna osobowość godna przyrodniczego i odrodzeniowego dziedzictwa Kanclerza [Jana Zamoyskiego](/zwierzyncopedia/ludzie/jan-zamoyski/)"[^1], w swoich obrazach utrwaliła niepowtarzalną jesienną paletę barw roztoczańskich krajobrazów i portretów drzew, a czynem — ocaliła przed dewastacją ostatnie skrawki roztoczańskiej puszczy.
+
+## Dzieciństwo na Floriance
+
+Aleksandra przyszła na świat jesienią 1902 roku w folwarku na Floriance, gdzie jej ojciec Franciszek Fejfer-Stankowski pełnił funkcję zarządcy szkółek ogrodowych i folwarku w Ordynacji Zamojskiej. Rodzina Fejfer-Stankowskich słynęła z umiłowania nauki, postaw społecznych i patriotyzmu. Zainteresowania entomologiczne ojca ukształtowały w młodej Aleksandrze wrażliwość na świat przyrody, która towarzyszyła jej przez całe życie.[^2]
+
+Dorastanie pośród roztoczańskich lasów, na terenie dawnej [willi idealnej](/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/) Zamoyskich, dało jej intuicyjne poczucie wyjątkowości tego miejsca — *la villa ideale in modo italiano*, ale po polsku w drewnie.
+
+## Studia i lata warszawskie
+
+Studia artystyczne w Szkole Sztuk Pięknych w Warszawie ze specjalnością z grafiki ukończyła w latach 1923–1930. Do roku 1939 mieszkała i tworzyła w stolicy, zajmując się miedziorytami, ilustracjami książkowymi, grafiką użytkową i malarstwem sztalugowym. Każdą wolną chwilę spędzała w Zwierzyńcu, gdzie rodzice osiedli na stałe — wiele z tych wypraw znaczyła obrazami zwierzynieckiej ziemi.[^3]
+
+## Wojna i konspiracja
+
+W pierwszych dniach wojny 1939 roku wróciła do Zwierzyńca i zaangażowała się w działalność konspiracyjną — pracowała przy wydawnictwach prasy podziemnej. Zaprojektowała i wykonała sztandar 9 Pułku Piechoty Armii Krajowej. Nie odłożyła jednak pędzla — powstawały kolejne pejzaże.[^3]
+
+## Dorobek artystyczny
+
+Spod jej ręki wyszły cykle rysunków tuszem przedstawiające głównie drzewa: Teka Przemyska, Teka Parku Narodowego, Teka Turkowicka. Powstawały prace poplenerowe w Ojcowie, Kraśniku i Kazimierzu. Po wyprawie do Bułgarii powstała Teka Bułgarska. Wystawiała obrazy z warszawską Grupą Twórczą „Zachęta" — wystawa z tą grupą prezentowana była również w Londynie, z jej osobistym udziałem.[^4]
+
+W roku 1950 uzyskała status członka nadzwyczajnego Związku Polskich Artystów Plastyków okręgu lubelskiego w sekcji grafiki, a od 1959 roku — członka rzeczywistego. Projektowała cykl pocztówek „Rośliny Tatrzańskie" dla wydawnictwa „Kraj". Na zlecenie Ligi Ochrony Przyrody wykonywała i wydawała ilustrowane książeczki dla dzieci na temat roślin i zwierząt chronionych.[^3]
+
+Prace Wachniewskiej prezentowano na wielu wystawach, głównie w Lublinie i Warszawie — po II wojnie światowej odbyło się ich szesnaście.[^4]
+
+> *Moja praca twórcza łączy się ściśle z pracą w Ochronie Przyrody. Niestety życie moich leśnych modeli wiele razy było zagrożone — stąd wypływa konieczność walki o nie.*[^5]
+
+Malowała Roztocze z intuicyjnym znawstwem i rozumieniem życia przyrody, z potrzeby serca, dla ocalenia odchodzących w przeszłość krajobrazów. Jej twórczość mocno spleciona była z umiłowaniem malowanej puszczy, drzew, kwiatów, przysiółków, domostw i kapliczek. Na jej obrazach można odnaleźć motywy architektoniczne — domy po urzędnikach Ordynacji Zamojskiej czy ludową architekturę roztoczańskich wsi.[^3]
+
+## Nauczycielka i wychowawczyni
+
+W 1946 roku została nauczycielką rysunków i kreśleń w nowo otwartym Państwowym Gimnazjum Leśnym w Zwierzyńcu. Podjęła walkę o wysoki poziom i szerokie horyzonty myślenia młodzieży — założyła koło Ligi Ochrony Przyrody, bibliotekę (do której książki ściągała z Krakowa od samego profesora Władysława Szafera), prowadziła z uczniami dokumentację starych drzew i stanowisk roślin chronionych. Organizowała wystawy na temat ochrony przyrody, utrzymując kontakty z najwyższymi autorytetami nauki — otwarcia pierwszej wystawy w Gimnazjum dokonał ówczesny rektor UMCS w Lublinie profesor Strawiński.[^5]
+
+> *Tylko w harmonii z przyrodą może żyć i rozwijać się szczęśliwy naród.*[^5]
+
+Gdy za tekst ćwiczebny do nauki kreśleń wybrała fragment z *Pana Tadeusza* — „Pomniki nasze! Ileż co rok was pożera kupiecka lub rządowa, moskiewska siekiera" — została zwolniona dyscyplinarnie z pracy.[^6]
+
+## Walka o ochronę przyrody
+
+Od chwili zwolnienia z pracy życie Aleksandry Wachniewskiej składało się z malowania i ciągłych prób ochrony tutejszych lasów, drzew i piękna krajobrazu. Korespondowała z profesorami: Szaferem (Kraków), Skuratowiczem, Czubińskim, Rafalskim, Urbańskim (Poznań), Konserwatorem Przyrody w Lublinie, Ministerstwem Leśnictwa, Ministerstwem Obrony Narodowej, Państwową Radą Ochrony Przyrody, Ligą Ochrony Przyrody, Zarządem Głównym PTTK i plejadą młodych uczonych UMCS w Lublinie, głównie z zakładu botaniki profesora Motyki.[^6]
+
+Osobiście stawiała się na spotkania z leśnikami różnych szczebli, miejscową władzą i uczonymi. Została Społecznym Opiekunem Ochrony Przyrody i Zabytków Architektury Roztocza z ramienia ZG PTTK, a Państwowa Rada Ochrony Przyrody ustanowiła ją społecznym Delegatem Ochrony Przyrody na Zamojszczyznę.[^6]
+
+> *Gdyby nie to, że mam tyle sentymentu do tych stron, tyle wspomnień, tyle włożonej tu pracy — wyjechałabym stąd już dawno. Nie mogę rozstać się z tutejszymi lasami i wzgórzami, nigdzie nie znajdę takich pięknych jodeł i buków, nigdzie nie będą tak pięknie szumieć sosny.*[^7]
+
+## Roztoczański Park Narodowy
+
+Gdyby nie pomoc i zrozumienie ze strony świata nauki, w swojej tytanicznej pracy na rzecz środowiska Wachniewska byłaby w Zwierzyńcu zupełnie sama. Udało się jednak stworzyć kilka rezerwatów przyrody — „Nart", „Czerkies – Obrocz", powiększenie rezerwatu „Bukowa Góra" — a z biegiem czasu, wsparta opracowaniami naukowymi (m.in. S. Riabinin, D. Fijałkowski, K. Izdebski), doprowadziła do powołania [Roztoczańskiego Parku Narodowego](/zwierzyncopedia/przyroda/park-srodowiskowy/), o co usilnie przez lata zabiegała.[^6]
+
+W roku 1967, gdy pozostało już tylko wszcząć praktyczne starania o utworzenie parku, profesor Szafer napisał do niej:
+
+> *Z górą 30 lat przeminęło, świat się zmienił i z nim Polska. Jedno tylko zostało niezmienione w sercu Roztocza: jego piękno i niedający się opisać urok roztockiej przyrody. Ma on swoją opiekunkę, która odczuwa piękno Roztocza tak, jak nikt inny w Polsce. Narodowi przekazuje urok drzew i lasu urzekającą potęgą Swojego szczerego talentu artystycznego. Jej życzymy wiele sił i wielu jeszcze dzieł.*[^8]
+
+Park Narodowy utworzono 10 maja 1974 roku. Jego powstanie, które w ogromnej mierze zawdzięczamy Aleksandrze Wachniewskiej, na zawsze odmieniło oblicze Zwierzyńca. Od początku równorzędnym celem Parku, obok ochrony przyrody, jest również zachowanie wartości kulturowych.[^9]
+
+## Ostatnie lata i pamięć
+
+Aleksandra Wachniewska zmarła 14 października 1989 roku, idąc ukochaną Aleją Marysieńki w Zwierzyńcu.[^10]
+
+Jej dom przy dzisiejszej ulicy Aleksandry Wachniewskiej w Zwierzyńcu — budynek z lat 30.–40. XIX wieku, w którym mieszkała przez niemal 60 lat — jest przedmiotem starań o wpis do rejestru zabytków Województwa Lubelskiego.[^11]
+
+Dziedzictwo Wachniewskiej kontynuuje Stowarzyszenie Jej Imienia, które podjęło inicjatywę ratowania zabytkowego krajobrazowego założenia willowego Zwierzyńca, prowadzi szeroką edukację o jego wyjątkowej wartości i stara się o jego skuteczną ochronę.
+
+## Bibliografia
+
+- Gajewski, Tomasz. *Aleksandra Wachniewska — Malarka Roztocza*.
+
+[^1]: Album *Aleksandra Wachniewska Malarka Roztocza*, oprac. Tomasz Gajewski.
+[^2]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Historia Aleksandry Wachniewskiej — część II*.
+[^3]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Historia Aleksandry Wachniewskiej — część III*.
+[^4]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Historia Aleksandry Wachniewskiej — część IV*.
+[^5]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Historia Aleksandry Wachniewskiej — część V*.
+[^6]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Historia Aleksandry Wachniewskiej — część VI*.
+[^7]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Jesienią, 25 września 1902 roku, w folwarku na Floriance przyszła na świat Aleksandra Wachniewska*.
+[^8]: List prof. Władysława Szafera do Aleksandry Wachniewskiej, 1967. Cyt. za: Stowarzyszenie im. Aleksandry Wachniewskiej, *Tymczasem wciąż opowiadamy o naszej Patronce* (część VII).
+[^9]: Stowarzyszenie im. Aleksandry Wachniewskiej, *To dzięki Jej staraniom jest tu tak pięknie*.
+[^10]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Aleksandra Wachniewska*.
+[^11]: Stowarzyszenie im. Aleksandry Wachniewskiej, *Jaki los czeka dom inicjatorki powstania Roztoczańskiego Parku Narodowego?*
