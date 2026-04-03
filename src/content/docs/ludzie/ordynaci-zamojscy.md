@@ -42,6 +42,8 @@ Za jego czasów willa gościła:
 
 W 1658 roku poślubił **Marię Kazimierę d'Arquien** (*Marysieńkę*), 17-letnią dwórkę królowej Ludwiki Marii, która rozbudowała założenie o elementy renesansu francuskiego: staw z czterema wyspami, ermitaż, długi kanał i groblę.
 
+Życie dworskie w Zwierzyńcu miało charakter wyrafinowanej *villeggiatury*: muzyka, tańce, „maszkaryje", maski weneckie na karnawał, przejażdżki gondolami po stawach aż po Malowany Most, a w zimie — słynne kuligi z Zamościa do Zwierzyńca. Organizowano *cadeaux* — niespodzianki na wzór najnowszej francuskiej mody: podczas wycieczek w ostępy leśne „odkrywano" nagle na polanie suto zastawiony stół i przygrywających muzyków przebranych za satyrów.[^3]
+
 → *Osobny artykuł: [Maria Kazimiera d'Arquien](/zwierzyncopedia/ludzie/maria-kazimiera-zamoyska/)*
 
 ## Gryzelda Wiśniowiecka z Zamoyskich (1623–1672)
@@ -169,6 +171,14 @@ Wybitna osobowość w dziejach odzyskania niepodległości (1918). Mieszkał w K
 Często bywał w Zwierzyńcu w dzieciństwie i podczas wakacji. Na stałe zamieszkał w willi *Rózin* od 1938 roku, po ślubie z Różą z Żółtowskich. Podczas okupacji hitlerowskiej oboje **ratowali Dzieci Zamojszczyzny** z niemieckiego obozu przejściowego w Zwierzyńcu — Różę nazywano *Aniołem Dobroci*.[^22]
 
 Przekazał cenną informację: w latach dwudziestych XX wieku, podczas niwelacji terenu po wykrotach drzew pomiędzy budynkami murowanych oficyn, natrafiono na szczątki belek modrzewiowych — pozostałości fundamentów dawnej willi. Informacja ta wymaga weryfikacji archeologicznej.[^23]
+
+---
+
+## Zobacz też
+
+- [Palimpsest — ewolucja założenia](/zwierzyncopedia/dziedzictwo/palimpsest/) — fazy stylowe willi od renesansu po osadę urzędniczą
+- [Halina Matławska](/zwierzyncopedia/ludzie/halina-matlawska/) — historyczka Zwierzyńca, autorka monografii i pionierka badań nad villą
+- [Mapy i plany](/zwierzyncopedia/biblioteka/mapy-i-plany/) — dokumentacja kartograficzna kolejnych faz założenia
 
 ---
 

@@ -56,11 +56,26 @@ Za III ordynata *Sobiepana* i [Marysieńki](/zwierzyncopedia/ludzie/maria-kazimi
 
 Otoczenie krajobrazowe wnętrza — dno doliny zamknięte wzgórzami — powiązano kompozycyjnie osiami widokowymi, tworząc panoramiczne wnętrze architektoniczno-krajobrazowe. Profesor Szymon Szymonowic w *Sielankach* opisywał ten ideał: *Ideałem staje się rozległa przewiewna dolina otoczona wzniesieniami.*[^6]
 
+## Orientacja „pięć na trzynastą"
+
+Oś główna układu villowego nie jest zorientowana zgodnie ze stronami świata — jest obrócona o ok. 30° na wschód od osi północ–południe. Autorzy Studium określają tę orientację metaforą „pięć na trzynastą" (kierunek wg tarczy zegara). Było to świadome rozwiązanie projektowe *podług nieba i zwyczaju polskiego*, zapewniające optymalne nasłonecznienie pomieszczeń willi i ogrodów kwaterowych oraz właściwe przewietrzanie.[^8]
+
+![Orientacja „pięć na trzynastą" — układ villowy nałożony na ortofotomapę. Oprac. L. Matławska-Patyk, M. Patyk.](/zwierzyncopedia/assets/images/studium/orientacja-piec-na-trzynasta.png)
+
+Geometryczny *kod* czytelny jest w terenie do dziś, co stanowi jeden z najsilniejszych argumentów za celowością i perfekcją pierwotnego projektu.
+
 ## Trwałość kompozycji
 
 Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez stulecia zmian stylistycznych — od renesansu francuskiego, przez barok, klasycyzm, po romantyzm. Każda kolejna warstwa stylowa wzmacniała, a nie zacierała pierwotną kanwę geometryczną. Jest to najmocniejszy fizyczny dowód na fundamentalne znaczenie pierwotnego planu.[^7]
 
 ---
+
+## Zobacz też
+
+- [Palimpsest — ewolucja założenia](/dziedzictwo/palimpsest/) — warstwy stylowe nakładane na geometryczną kanwę
+- [Ogrody kwaterowe](/dziedzictwo/uklad-urbanistyczny/ogrody-kwaterowe/) — kwatery *ad quadratum* na osi mediany
+- [Pomnik Historii — argumentacja](/dziedzictwo/pomnik-historii/) — waloryzacja wnętrz WAK 1–5
+- [Mapy i plany](/biblioteka/mapy-i-plany/) — źródła kartograficzne dokumentujące osie
 
 [^1]: L. Matławska-Patyk, M. Patyk, *Villa Restituta w Zwierzyńcu. Studium*, Zwierzyniec 2025, cz. III.1.
 [^2]: Villa Restituta, cz. III.1; J. Kowalczyk, *Ideologiczne aspekty urbanistyki Zamościa*.
@@ -69,3 +84,4 @@ Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez s
 [^5]: Villa Restituta, cz. IV (III ordynat) — hipotetyczna rekonstrukcja maniery renesansu francuskiego.
 [^6]: Sz. Szymonowic, *Sielanki*, za: Villa Restituta, cz. III.1.
 [^7]: Villa Restituta, cz. VII — Zwierzyniec jako palimpsest.
+[^8]: Villa Restituta, cz. VIII — analiza orientacji; cz. III.1.

@@ -40,14 +40,26 @@ XIV ordynat zmienił również dachy oficyn — w tej postaci oglądamy je do dz
 
 XV ordynat **Maurycy Zamoyski** mieszkał w Klemensowie, a Ordynacją zarządzał z Pałacu Administracji w Zwierzyńcu.
 
+## Znaczenie w układzie villowym
+
+W waloryzacji JARK-WAK przestrzeń pomiędzy oficynami stanowi centralne wnętrze villowe (**WAK 1**) — negatywowy ślad *axis mundi* założenia i najważniejsze *loco memorie* całego układu. Pusta przestrzeń po willi, ujęta w ramy klasycystycznych oficyn, posiada najwyższą wartość symboliczną i naukową.[^6]
+
 ## Znaczenie archeologiczne
 
 XVI ordynat **Jan Tomasz Zamoyski** (1912–2002) przekazał informację, że w latach dwudziestych XX wieku, podczas niwelacji terenu po wykrotach drzew pomiędzy budynkami oficyn, natrafiono na szczątki belek modrzewiowych — pozostałości fundamentów dawnej renesansowej willi. Teren willi nie był dotąd przedmiotem badań archeologicznych.[^5]
 
 ---
 
+## Zobacz też
+
+- [Palimpsest — ewolucja założenia](/dziedzictwo/palimpsest/) — oficyny jako warstwa klasycyzmu i sentymentalizmu
+- [Pomnik Historii — argumentacja](/dziedzictwo/pomnik-historii/) — waloryzacja WAK 1 (wnętrze centralne villowe)
+- [Ordynaci Zamojscy](/ludzie/ordynaci-zamojscy/) — XI, XIII i XIV ordynat — budowniczowie i reformatorzy
+- [Ogrody kwaterowe](/dziedzictwo/uklad-urbanistyczny/ogrody-kwaterowe/) — kwatery ogrodowe otoczone oficynami
+
 [^1]: L. Matławska-Patyk, M. Patyk, *Villa Restituta w Zwierzyńcu. Studium*, Zwierzyniec 2025, cz. IV (XI ordynat).
 [^2]: Villa Restituta, cz. IV (XI ordynat).
 [^3]: Villa Restituta, cz. IV (XIII i XIV ordynat).
 [^4]: Villa Restituta, cz. IV (XIV ordynat).
 [^5]: Relacja XVI ordynata Jana Tomasza Zamoyskiego, za: Villa Restituta.
+[^6]: Villa Restituta, cz. IX.1.2 — identyfikacja WAK; cz. IX.1.3 — waloryzacja.

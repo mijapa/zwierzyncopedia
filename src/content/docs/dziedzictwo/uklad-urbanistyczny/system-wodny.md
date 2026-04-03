@@ -46,6 +46,14 @@ Za XI ordynata Aleksandra Augusta Zamoyskiego (1792–1800) rozpoczęto likwidac
 
 XI ordynatowa Maria z Granowskich stworzyła ogród sentymentalny na kanwie wcześniejszych układów wodnych: sielski młyn z kołem nadsiębiernym, *chiński mostek* nad przelewem wody ze stawu, altany nad kanałami byłych meandrów.[^7]
 
+## Strumień Świerszcz
+
+Obok Wieprza kluczowym elementem systemu wodnego jest **strumień Świerszcz** (vel Świńcza) — leśny ciek spływający spod Bukowej Góry ku Wieprzowi. Jego końcowy bieg został ok. 1593 roku zaadaptowany i wykorzystany do organizacji renesansowego założenia[^9]. Rozlewiska Świerszcza w dolnym biegu tworzyły *Wielkie Bagno* z altaną widokową (*theatrum naturae*) — dziś są to [Stawy Echo](/zwierzyncopedia/przyroda/stawy-echo/). Mapa pomiarowa z 1829/30 r. opisuje teren rozlewiska jako *Zwierzyńczyk*[^10].
+
+W waloryzacji JARK-WAK dolina Świerszcza ze Stawami Echo stanowi odrębny zespół wnętrz **ZWAK 031 B**, a strumień wraz ze stawami wchodzi w skład wnętrza **WAK 4** (zwierzyńczyk, dojazd i kanał) — ocenionego na 16/20 punktów[^11].
+
+Za czasów Marysieńki *strojne gondole niosły damy i panów po wodach pałacowego stawu lub kanałem i nurtem Świerszcza aż w głąb lasu po Malowany Most*[^12]. Ów Malowany Most na Świerszczu w głębi rezerwatu, jak chce tradycja, związany jest z pobytem Marysieńki w Zwierzyńcu. Mosty na rozwidleniach strumienia — Kamienny Most, most przed wjazdem bramnym — spinały brzegi i łączyły staw kościelny ze stawem villowym.
+
 ## Mapa józefińska (1779–1783)
 
 ![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](/zwierzyncopedia/assets/images/studium/mapa-jozefinska-zwierzyniec.png)
@@ -54,9 +62,16 @@ Mapa ppłk. Friedricha von Miega rejestruje stan systemu wodnego: drewnianą wil
 
 ## Stan obecny
 
-Do dziś czytelne pozostają: staw kościelny z wyspą, fragment dawnej grobli dojazdowej, zarys stawu villowego oraz koryto rzeki Wieprz w regulowanym przebiegu. Kanał ulgi łączący staw villowy ze stawem kościelnym jest zasypany.
+Do dziś czytelne pozostają: staw kościelny z wyspą, fragment dawnej grobli dojazdowej, zarys stawu villowego oraz koryto rzeki Wieprz w regulowanym przebiegu. Kanał ulgi łączący staw villowy ze stawem kościelnym jest zasypany. Staw kościelny napełniany jest kanałem z rozwidlenia strumienia Świerszcz i odprowadza wody do rzeki Wieprz[^13].
 
 ---
+
+## Zobacz też
+
+- [Rzeka Wieprz](/przyroda/rzeka-wieprz/) — pradolina jako fundament założenia villowego
+- [Stawy Echo](/przyroda/stawy-echo/) — Wielkie Bagno i dolina Świerszcza
+- [Kościół na Wodzie](/dziedzictwo/architektura/kosciol-na-wodzie/) — barowa perła na wyspie stawu kościelnego
+- [Pomnik Historii — argumentacja](/dziedzictwo/pomnik-historii/) — waloryzacja WAK 3 i WAK 4
 
 [^1]: L. Matławska-Patyk, M. Patyk, *Villa Restituta w Zwierzyńcu. Studium*, Zwierzyniec 2025, cz. III.1.
 [^2]: Villa Restituta, cz. III.3.3 i III.3.4.
@@ -66,3 +81,8 @@ Do dziś czytelne pozostają: staw kościelny z wyspą, fragment dawnej grobli d
 [^6]: Villa Restituta, cz. IV (XI i XII ordynat).
 [^7]: Villa Restituta, cz. IV (Maria z Granowskich).
 [^8]: Mapa topograficzna Galicji (1779–1783); Villa Restituta — analiza mapy józefińskiej.
+[^9]: Opracowanie B. Szmygina, za: Villa Restituta, Analiza NID.
+[^10]: Villa Restituta, cz. VIII — tabela dowodowa; mapa pomiarowa OZ 1829/30.
+[^11]: Villa Restituta, cz. IX.1 — identyfikacja JARK-WAK; oprac. krajobrazowe RPN 1998.
+[^12]: H. Matławska, *Metryka Zwierzyńca*, Zamość 1993, za: Villa Restituta.
+[^13]: Operat wodnoprawny, za: Villa Restituta, Analiza NID.
