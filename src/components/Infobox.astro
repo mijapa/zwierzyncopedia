@@ -1,0 +1,26 @@
+---
+interface Props {
+  image?: string;
+  caption?: string;
+  data: Array<{ label: string; value: string }>;
+}
+
+const { image, caption, data } = Astro.props;
+---
+
+<aside class="zw-infobox">
+  {image && (
+    <figure class="zw-infobox__figure">
+      <img src={image} alt={caption || ''} />
+      {caption && <figcaption>{caption}</figcaption>}
+    </figure>
+  )}
+  <dl class="zw-infobox__data">
+    {data.map(({ label, value }) => (
+      <>
+        <dt>{label}</dt>
+        <dd set:html={value} />
+      </>
+    ))}
+  </dl>
+</aside>

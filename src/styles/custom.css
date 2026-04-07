@@ -135,6 +135,10 @@ h4 {
   text-align: center;
 }
 
+.sl-markdown-content > .zw-infobox ~ figure:first-of-type {
+  max-width: calc(100% - 280px - 1.5rem);
+}
+
 .sl-markdown-content figure img {
   max-width: 100%;
   height: auto;
@@ -148,4 +152,80 @@ h4 {
   line-height: 1.4;
   color: var(--sl-color-gray-3);
   font-style: italic;
+}
+
+/* ── Infobox (ramka danych, styl Wikipedii) ──────────────────────────────── */
+.zw-infobox {
+  float: right;
+  clear: right;
+  width: 280px;
+  margin: 0 0 1rem 1.5rem;
+  border: 1px solid rgba(5, 142, 63, 0.25);
+  border-radius: 0.5rem;
+  background: var(--sl-color-accent-low);
+  font-size: 0.88rem;
+  line-height: 1.45;
+  overflow: hidden;
+}
+
+.zw-infobox__figure {
+  margin: 0;
+  text-align: center;
+}
+
+.zw-infobox__figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.zw-infobox__figure figcaption {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  color: var(--sl-color-gray-3);
+  font-style: italic;
+}
+
+.zw-infobox__data {
+  margin: 0;
+  padding: 0;
+}
+
+.zw-infobox__data dt {
+  padding: 0.35rem 0.75rem 0;
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--sl-color-gray-3);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.zw-infobox__data dd {
+  margin: 0;
+  padding: 0.1rem 0.75rem 0.45rem;
+  border-bottom: 1px solid rgba(5, 142, 63, 0.1);
+}
+
+.zw-infobox__data dd:last-child {
+  border-bottom: none;
+}
+
+.zw-infobox__data dd a {
+  color: var(--sl-color-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
+/* Responsive – poniżej 720 px infobox na pełną szerokość */
+@media (max-width: 720px) {
+  .sl-markdown-content > .zw-infobox ~ figure:first-of-type {
+    max-width: none;
+  }
+
+  .zw-infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.5rem;
+  }
 }
