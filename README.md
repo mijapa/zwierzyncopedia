@@ -44,9 +44,21 @@ npm run build
 
 Wygenerowany HTML trafi do katalogu `dist/`.
 
+## Kontrola jakości
+
+Repozytorium wykorzystuje `markdownlint`, `yamllint` i minimalną konfigurację `Vale` do kontroli jakości treści.
+
+Lokalnie możesz uruchomić sprawdzenia przez `pre-commit`:
+
+```bash
+pip install pre-commit
+pre-commit install
+pre-commit run --all-files
+```
+
 ## Struktura projektu
 
-```
+```text
 zwierzyncopedia/
 ├── .github/
 │   └── workflows/

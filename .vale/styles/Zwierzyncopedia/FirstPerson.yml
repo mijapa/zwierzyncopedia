@@ -1,0 +1,11 @@
+extends: existence
+message: "Unikaj pierwszej osoby; użyj formy bezosobowej lub trzecioosobowej."
+level: warning
+ignorecase: true
+tokens:
+  - '\bmoim zdaniem\b'
+  - '\bwedług mnie\b'
+  - '\bwydaje mi się\b'
+  - '\bsądzę,? że\b'
+  - '\bmyślę,? że\b'
+  - '\buważam,? że\b'

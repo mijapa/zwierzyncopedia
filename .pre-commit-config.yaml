@@ -25,3 +25,10 @@ repos:
     hooks:
       - id: yamllint
         args: [--config-file, .yamllint.yml]
+
+  - repo: https://github.com/errata-ai/vale
+    rev: v3.12.0
+    hooks:
+      - id: vale
+        args: [--config=.vale.ini]
+        files: \.(md|mdx)$
