@@ -5,13 +5,29 @@ interface Props {
   data: Array<{ label: string; value: string }>;
 }
 
+const imageUrls = import.meta.glob('../assets/images/**/*.{avif,gif,jpeg,jpg,png,svg,webp}', {
+  eager: true,
+  import: 'default',
+  query: '?url',
+});
+
+function resolveImagePath(image?: string) {
+  if (!image) return undefined;
+  if (image.startsWith('http://') || image.startsWith('https://')) return image;
+  if (image.startsWith('/zwierzyncopedia/') || image.startsWith('/assets/')) return image;
+
+  const normalizedImage = image.startsWith('/') ? image.slice(1) : image;
+  return imageUrls[`../assets/images/${normalizedImage}`] ?? image;
+}
+
 const { image, caption, data } = Astro.props;
+const imageSrc = resolveImagePath(image);
 ---
 
 <aside class="zw-infobox">
-  {image && (
+  {imageSrc && (
     <figure class="zw-infobox__figure">
-      <img src={image} alt={caption || ''} />
+      <img src={imageSrc} alt={caption || ''} />
       {caption && <figcaption>{caption}</figcaption>}
     </figure>
   )}

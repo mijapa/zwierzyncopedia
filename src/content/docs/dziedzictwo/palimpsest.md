@@ -22,7 +22,7 @@ Pojęcie **palimpsestu** — pergaminu, z którego zeskrobano dawny tekst, by na
 
 **I ordynat — [Jan Sariusz Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/)**
 
-![Zasady kompozycyjne renesansowego układu villowego — rekonstrukcja.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-zasady-kompozycyjne.png)
+![Zasady kompozycyjne renesansowego układu villowego — rekonstrukcja.](../../../assets/images/studium/rekonstrukcja-zasady-kompozycyjne.png)
 
 Pierwotna kompozycja oparta na wzorcu *ad quadratum* obejmowała:[^2]
 
@@ -44,7 +44,7 @@ Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez s
 
 **III ordynat — Jan II Zamoyski „Sobiepan" i [Maria Kazimiera](/zwierzyncopedia/ludzie/maria-kazimiera-zamoyska/)**
 
-![Rekonstrukcja układu w manierze renesansu francuskiego.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-renesans-francuski.png)
+![Rekonstrukcja układu w manierze renesansu francuskiego.](../../../assets/images/studium/rekonstrukcja-renesans-francuski.png)
 
 *Marysieńka* Zamoyska, przebywając wielokrotnie w Paryżu, bezpośrednio poznała wczesny Wersal i ogrody Le Nôtre'a. Pod jej wpływem główne osie zostały przedłużone, a powstały nowe — promieniste:[^3]
 
@@ -59,7 +59,7 @@ Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez s
 
 **VII ordynat — [Tomasz Antoni Zamoyski](/zwierzyncopedia/ludzie/tomasz-antoni-zamoyski/)**
 
-![Rekonstrukcja układu barokowego.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-uklad-barokowy.png)
+![Rekonstrukcja układu barokowego.](../../../assets/images/studium/rekonstrukcja-uklad-barokowy.png)
 
 Ordynat-architekt i znawca sztuki ogrodowej dodał do założenia warstwę sakralną i ogrodową:[^4]
 
@@ -74,7 +74,7 @@ Ordynat-architekt i znawca sztuki ogrodowej dodał do założenia warstwę sakra
 
 **XI ordynat — Aleksander August Zamoyski**
 
-![Rekonstrukcja maniery sentymentalnej.](/zwierzyncopedia/assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
+![Rekonstrukcja maniery sentymentalnej.](../../../assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
 
 Okres wewnętrznych reform i nowej wrażliwości estetycznej:[^5]
 

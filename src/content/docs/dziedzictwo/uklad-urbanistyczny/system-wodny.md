@@ -56,7 +56,7 @@ Za czasów Marysieńki *strojne gondole niosły damy i panów po wodach pałacow
 
 ## Mapa józefińska (1779–1783)
 
-![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](/zwierzyncopedia/assets/images/studium/mapa-jozefinska-zwierzyniec.png)
+![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](../../../../assets/images/studium/mapa-jozefinska-zwierzyniec.png)
 
 Mapa ppłk. Friedricha von Miega rejestruje stan systemu wodnego: drewnianą willę, stawy, suchy kanał (zaznaczony na terenie zwierzyńczyka), drogę po grobli zamykającej wody południowego stawu villowego. Staw villowy swym przelewem zasilał staw kościelny przez kanał ulgi — dziś zasypany, co rodzi konsekwencje zawilgoceń fundamentów pobliskich oficyn.[^8]
 
@@ -68,10 +68,10 @@ Do dziś czytelne pozostają: staw kościelny z wyspą, fragment dawnej grobli d
 
 ## Zobacz też
 
-- [Rzeka Wieprz](/przyroda/rzeka-wieprz/) — pradolina jako fundament założenia villowego
-- [Stawy Echo](/przyroda/stawy-echo/) — Wielkie Bagno i dolina Świerszcza
-- [Kościół na Wodzie](/dziedzictwo/architektura/kosciol-na-wodzie/) — barowa perła na wyspie stawu kościelnego
-- [Pomnik Historii — argumentacja](/dziedzictwo/pomnik-historii/) — waloryzacja WAK 3 i WAK 4
+- [Rzeka Wieprz](/zwierzyncopedia/przyroda/rzeka-wieprz/) — pradolina jako fundament założenia villowego
+- [Stawy Echo](/zwierzyncopedia/przyroda/stawy-echo/) — Wielkie Bagno i dolina Świerszcza
+- [Kościół na Wodzie](/zwierzyncopedia/dziedzictwo/architektura/kosciol-na-wodzie/) — barowa perła na wyspie stawu kościelnego
+- [Pomnik Historii — argumentacja](/zwierzyncopedia/dziedzictwo/pomnik-historii/) — waloryzacja WAK 3 i WAK 4
 
 [^1]: L. Matławska-Patyk, M. Patyk, *Villa Restituta w Zwierzyńcu. Studium*, Zwierzyniec 2025, cz. III.1.
 [^2]: Villa Restituta, cz. III.3.3 i III.3.4.

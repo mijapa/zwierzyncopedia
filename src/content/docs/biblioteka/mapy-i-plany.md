@@ -18,7 +18,7 @@ Kartografia stanowi jeden z najważniejszych filarów rekonstrukcji [założenia
 
 ## Plan willi ujazdowskiej — A. Albertini, 1606
 
-![Plan willi ujazdowskiej Albertiniego z 1606 r. — wzorzec porównawczy dla rekonstrukcji willi w Zwierzyńcu.](/zwierzyncopedia/assets/images/studium/villa-ujazdow-plan-albertini.png)
+![Plan willi ujazdowskiej Albertiniego z 1606 r. — wzorzec porównawczy dla rekonstrukcji willi w Zwierzyńcu.](../../../assets/images/studium/villa-ujazdow-plan-albertini.png)
 
 Najważniejszy *dowód analogiczny* w studium nad zwierzyniecką villą. Plan sporządzony przez A. Albertiniego w 1606 r. przedstawia królewską drewnianą willę Anny Jagiellonki w Ujazdowie pod Warszawą — rezydencję, którą [Jan Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/) prawdopodobnie poznał osobiście podczas wesela z Krystyną Radziwiłłówną 12 stycznia 1578 roku.[^1]
 
@@ -26,15 +26,16 @@ Plan ukazuje kompletny układ villowy: centralny budynek o wymiarach ok. 60×12 
 
 Rzut przyziemia willi ujazdowskiej służy jako klucz do odczytania inwentarzy zwierzynieckich — porównanie wymiarów, układu pomieszczeń i programu funkcjonalnego pozwala na rekonstrukcję modrzewiowej willi Zamoyskich.
 
-![Rzut przyziemia willi ujazdowskiej.](/zwierzyncopedia/assets/images/studium/villa-ujazdow-plan-przyziemia.png)
+![Rzut przyziemia willi ujazdowskiej.](../../../assets/images/studium/villa-ujazdow-plan-przyziemia.png)
 
 ## Mapa józefińska — Friedrich von Mieg, 1779–1783
 
-![Fragment mapy józefińskiej z widocznym układem villowym Zwierzyńca.](/zwierzyncopedia/assets/images/studium/mapa-jozefinska-uklad-villowy.png)
+![Fragment mapy józefińskiej z widocznym układem villowym Zwierzyńca.](../../../assets/images/studium/mapa-jozefinska-uklad-villowy.png)
 
 Pierwsza mapa dokumentująca układ przestrzenny Zwierzyńca. Sporządzona przez austriackiego oficera ppłk. Friedricha von Miega w ramach wielkiej akcji skartografowania Galicji dla Habsburgów (tzw. zdjęcie józefińskie).[^3]
 
 Na mapie widoczne są:
+
 - drewniany budynek centralny (*willa*) pomiędzy dwoma akwenami
 - staw z wyspami (na centralnej wyspie — kościół pw. św. Jana Nepomucena)
 - zabudowania gospodarcze po obu stronach willi
@@ -42,15 +43,16 @@ Na mapie widoczne są:
 
 Mapa posiada istotne niedokładności liniowe i kątowe, co było konsekwencją jej wojskowego przeznaczenia. Niemniej potwierdza istnienie elementów znanych z wcześniejszych źródeł pisanych: centralnego budynku, systemu stawów i ogrodzonego zwierzyńca. Badacze zwracają uwagę na tzw. *suchy kanał* — starorzecze będące świadkiem wcześniejszego układu wodnego — jako przykład dowodu z retrospekcji kartograficznej.[^4]
 
-![Bezpośrednie odczytanie mapy józefińskiej.](/zwierzyncopedia/assets/images/studium/mapa-jozefinska-zwierzyniec.png)
+![Bezpośrednie odczytanie mapy józefińskiej.](../../../assets/images/studium/mapa-jozefinska-zwierzyniec.png)
 
 ## Mapa pomiarowa Ordynacji Zamojskiej, 1829–1830
 
-![Mapa pomiarowa Zwierzyńca z lat 1829–1830 — najsilniejszy dowód kartograficzny na istnienie renesansowego układu geometrycznego.](/zwierzyncopedia/assets/images/studium/mapa-pomiarowa-1829.png)
+![Mapa pomiarowa Zwierzyńca z lat 1829–1830 — najsilniejszy dowód kartograficzny na istnienie renesansowego układu geometrycznego.](../../../assets/images/studium/mapa-pomiarowa-1829.png)
 
 Najsilniejszy wizualny argument w całym studium nad villą. Geometryczna mapa pomiarowa Zwierzyńca, sporządzona na zlecenie XII ordynata Stanisława Kostki Zamoyskiego, zarejestrowała układ przestrzenny osady z bezprecedensową dokładnością.[^5]
 
 Na mapie czytelne są:
+
 - **centralna modrzewiowa willa** pomiędzy dwiema symetrycznymi oficynami drewnianymi
 - **cztery murowane oficyny klasycystyczne** wzniesione w 1793 r. przez XI ordynata
 - **oś villowa** i **mediana ogrodów kwaterowych** z kopcem widokowym na ich przecięciu
