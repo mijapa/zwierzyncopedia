@@ -19,7 +19,7 @@ Najprostszy sposób – edycja przez przeglądarkę, bez znajomości kodu.
 6. **Zapisz** – kliknij „Save". Zmiany zostaną automatycznie opublikowane w ciągu minuty!
 
 :::tip[Zdjęcia]
-W Pages CMS możesz wgrywać zdjęcia metodą „przeciągnij i upuść" (drag & drop). Idealne do dokumentacji fotograficznej w terenie – nawet z telefonu!
+W Pages CMS możesz wgrywać zdjęcia metodą „przeciągnij i upuść" (drag & drop). Nowe pliki są zapisywane w repozytorium w `src/assets/images`, dzięki czemu Astro optymalizuje je automatycznie podczas budowania strony.
 :::
 
 ## Sposób 2: Przycisk „Edytuj tę stronę"
