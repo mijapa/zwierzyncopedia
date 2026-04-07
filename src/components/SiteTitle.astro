@@ -1,13 +1,32 @@
 ---
-import compactLogo from '../assets/images/logo-mobile.svg?url';
-import wideLogo from '../assets/images/logo-stowarzyszenia.svg?url';
+import { Image } from 'astro:assets';
+import compactLogo from '../assets/images/logo-mobile.svg';
+import wideLogo from '../assets/images/logo-stowarzyszenia.svg';
 
 const { siteTitle, siteTitleHref } = Astro.locals.starlightRoute;
 ---
 
 <a href={siteTitleHref} class="site-title sl-flex">
-  <img class="site-title__logo site-title__logo--wide" src={wideLogo} alt="" aria-hidden="true" />
-  <img class="site-title__logo site-title__logo--compact" src={compactLogo} alt="" aria-hidden="true" width="54" height="54" />
+  <Image
+    class="site-title__logo site-title__logo--wide"
+    src={wideLogo}
+    alt=""
+    aria-hidden="true"
+    loading="eager"
+    fetchpriority="high"
+    width={240}
+    height={64}
+  />
+  <Image
+    class="site-title__logo site-title__logo--compact"
+    src={compactLogo}
+    alt=""
+    aria-hidden="true"
+    loading="eager"
+    fetchpriority="high"
+    width={54}
+    height={54}
+  />
   <span translate="no">{siteTitle}</span>
 </a>
 
