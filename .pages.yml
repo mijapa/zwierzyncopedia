@@ -5,7 +5,7 @@
 
 # Lokalizacja plików multimedialnych (zdjęcia, skany, mapy)
 # Nowe pliki z CMS trafiają do src/assets/images, aby Astro mogło je optymalizować.
-# Istniejące materiały w public/assets/images pozostają obsługiwane jako zasoby legacy.
+# Obrazy treści są utrzymywane wyłącznie w src/assets/images.
 media:
   - name: uklad-urbanistyczny-images
     label: Obrazy artykułów o układzie urbanistycznym
