@@ -3,6 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -11,7 +14,9 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/starlight": "^0.38.2",
+    "@fontsource/lora": "^5.2.8",
     "@microflash/remark-figure-caption": "^2.0.2",
     "astro": "^6.0.1",
     "sharp": "^0.34.2"

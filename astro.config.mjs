@@ -37,6 +37,15 @@ export default defineConfig({
             type: 'image/svg+xml',
           },
         },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'alternate',
+            type: 'application/rss+xml',
+            title: 'Zwierzyńcopedia RSS',
+            href: '/zwierzyncopedia/rss.xml',
+          },
+        },
       ],
       editLink: {
         baseUrl:
