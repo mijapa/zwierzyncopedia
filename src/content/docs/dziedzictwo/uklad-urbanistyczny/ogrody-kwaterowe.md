@@ -45,7 +45,7 @@ VII ordynat [Tomasz Antoni Zamoyski](/zwierzyncopedia/ludzie/tomasz-antoni-zamoy
 
 Żona ordynata, **Teresa Aniela z Michowskich**, nadzorowała prace ogrodowe w Zwierzyńcu i Klemensowie. W 1745 r. wydała dyspozycję burgrabemu zamojskiemu: *„trzeba będzie ulice szpetce jakem się już z Was Panem rozmuwiła (...) ludzi do Ogrodu włoskiego, którzy zasadzają lipiną przynajmować..."*[^8]
 
-## Zaawansowana kultura ogrodowa XVIII w.
+## Zaawansowana kultura ogrodowa w XVIII wieku
 
 Za IX ordynata Jan Jakuba Zamoyskiego kultura ogrodowa osiągnęła szczyt wyrafinowania:[^9]
 

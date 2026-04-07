@@ -36,6 +36,7 @@ Syn fundatora. Odbył studia na dworach Europy, interesował się architekturą 
 Najdłużej przebywający w Zwierzyńcu ordynat. Po pożarze Zamościa 19 kwietnia 1658 roku dwór przeniósł się na stałe do willi zwierzynieckiej. *Sobiepan* z upodobaniem spędzał tu wiele dni — pisał listy, pełnił urząd, przyjmował interesantów i rektora Akademii Zamojskiej. Bazyli Rudomicz w swoim *Diariuszu* wielokrotnie odnotowywał wizyty w Zwierzyńcu.[^3]
 
 Za jego czasów willa gościła:
+
 - **1660** — parę królewską: Jana II Kazimierza i Ludwikę Marię z Gonzagów
 - **1662** — ponownie dwór królewski (w drodze do Lwowa)
 - **1663** — Stanisława Herakliusza Lubomirskiego i księcia Michała Korybuta Wiśniowieckiego
@@ -107,6 +108,7 @@ Brak informacji o istotnych realizacjach w Zwierzyńcu.
 Wiódł życie wygodne i cenił piękne otoczenie. Po powrocie z zagranicy (1773) przeprowadził **generalny remont willi**: podciągnięto i wymieniono przyciesie, wykonano prace stolarskie, szklarskie, murarskie, kamieniarskie, wymieniono drzwi i okna, posadzki, piece i kominki, wnętrza urządzono nowymi meblami. Nad pracami czuwał murgrabia Johan-Joan.[^11]
 
 Faktografia dostarcza dowodów o zaawansowanej kulturze ogrodowej:
+
 - zatrudniony ogrodnik **Jan Ziomka** (1761–1792) z trzema pomocnikami, pensja 864 złotych rocznie
 - dwa ogrody — ozdobny i kuchenny, każdy otoczony 100-przęsłowym płotem
 - oranżeria i inspekty z ciepłolubnymi krzewami i kwiatami

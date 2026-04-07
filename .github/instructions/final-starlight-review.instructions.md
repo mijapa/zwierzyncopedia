@@ -16,6 +16,7 @@ Treat the review as required when a task changes any of the following:
 - Metadata, RSS, robots, or other SEO-relevant assets.
 
 ## Handoff Rules
+
 - Run the reviewer after implementation is complete and after any direct validation you perform.
 - Summarize the review outcome in the final response.
 - Fix must-fix findings before handoff when feasible.
@@ -23,6 +24,7 @@ Treat the review as required when a task changes any of the following:
 - If the reviewer could not be run, state that explicitly and explain why.
 
 ## Expected Review Coverage
+
 The final review should check:
 
 - Astro Starlight best practices and compatibility with current repo conventions.

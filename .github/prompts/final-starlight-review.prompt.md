@@ -4,6 +4,9 @@ name: "Final Starlight Review"
 argument-hint: "Describe the completed change set to review"
 agent: "Starlight Best Practices Reviewer"
 ---
+
+# Final Starlight Review Prompt
+
 Review the completed Zwierzyncopedia change set described below.
 
 Focus on Astro Starlight best practices, broader Astro integration, accessibility, SEO, content quality, and project-specific regressions.

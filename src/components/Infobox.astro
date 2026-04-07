@@ -1,6 +1,7 @@
 ---
 interface Props {
   image?: string;
+  alt?: string;
   caption?: string;
   data: Array<{ label: string; value: string }>;
 }
@@ -17,17 +18,29 @@ function resolveImagePath(image?: string) {
   if (image.startsWith('/zwierzyncopedia/') || image.startsWith('/assets/')) return image;
 
   const normalizedImage = image.startsWith('/') ? image.slice(1) : image;
-  return imageUrls[`../assets/images/${normalizedImage}`] ?? image;
+  const resolvedImage = imageUrls[`../assets/images/${normalizedImage}`];
+
+  if (resolvedImage) {
+    return resolvedImage;
+  }
+
+  console.warn(
+    `[Infobox] Could not resolve image "${image}" from src/assets/images. ` +
+      'Check the key or pass an explicit absolute URL if this is intentional.',
+  );
+
+  return image;
 }
 
-const { image, caption, data } = Astro.props;
+const { image, alt, caption, data } = Astro.props;
 const imageSrc = resolveImagePath(image);
+const imageAlt = alt ?? '';
 ---
 
 <aside class="zw-infobox">
   {imageSrc && (
     <figure class="zw-infobox__figure">
-      <img src={imageSrc} alt={caption || ''} />
+      <img src={imageSrc} alt={imageAlt} loading="lazy" decoding="async" />
       {caption && <figcaption>{caption}</figcaption>}
     </figure>
   )}
