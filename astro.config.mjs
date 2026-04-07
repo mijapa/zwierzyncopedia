@@ -25,6 +25,9 @@ export default defineConfig({
       logo: {
         src: './src/assets/images/logo-stowarzyszenia.svg',
       },
+      components: {
+        SiteTitle: './src/components/SiteTitle.astro',
+      },
       head: [
         {
           tag: 'link',
