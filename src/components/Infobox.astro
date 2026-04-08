@@ -15,6 +15,21 @@ const imageUrls = import.meta.glob('../assets/images/**/*.{avif,gif,jpeg,jpg,png
 function resolveImagePath(image?: string) {
   if (!image) return undefined;
   if (image.startsWith('http://') || image.startsWith('https://')) return image;
+
+  const publicAssetPrefixes = ['/zwierzyncopedia/assets/images/', '/assets/images/'];
+  const matchedPublicPrefix = publicAssetPrefixes.find((prefix) => image.startsWith(prefix));
+
+  if (matchedPublicPrefix) {
+    const normalizedPublicImage = image.slice(matchedPublicPrefix.length);
+    const resolvedPublicImage = imageUrls[`../assets/images/${normalizedPublicImage}`];
+
+    if (resolvedPublicImage) {
+      return resolvedPublicImage;
+    }
+
+    return image;
+  }
+
   if (image.startsWith('/zwierzyncopedia/') || image.startsWith('/assets/')) return image;
 
   const normalizedImage = image.startsWith('/') ? image.slice(1) : image;

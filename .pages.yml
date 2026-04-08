@@ -5,47 +5,48 @@
 
 # Lokalizacja plików multimedialnych (zdjęcia, skany, mapy)
 # Nowe pliki z CMS trafiają do src/assets/images, aby Astro mogło je optymalizować.
-# Obrazy treści są utrzymywane wyłącznie w src/assets/images.
+# `output` jest publiczną ścieżką wpisywaną przez Pages CMS do treści, więc
+# zachowujemy jedną, stabilną i zgodną z bazowym URL-em konwencję `/zwierzyncopedia/assets/images/...`.
 media:
   - name: uklad-urbanistyczny-images
     label: Obrazy artykułów o układzie urbanistycznym
     input: src/assets/images/uklad-urbanistyczny
-    output: ../../../../assets/images/uklad-urbanistyczny
+    output: /zwierzyncopedia/assets/images/uklad-urbanistyczny
     rename: safe
     categories:
       - image
   - name: architektura-images
     label: Obrazy artykułów o architekturze
     input: src/assets/images/architektura
-    output: ../../../../assets/images/architektura
+    output: /zwierzyncopedia/assets/images/architektura
     rename: safe
     categories:
       - image
   - name: utracone-images
     label: Obrazy dziedzictwa utraconego
     input: src/assets/images/utracone
-    output: ../../../../assets/images/utracone
+    output: /zwierzyncopedia/assets/images/utracone
     rename: safe
     categories:
       - image
   - name: przyroda-images
     label: Obrazy artykułów przyrodniczych
     input: src/assets/images/przyroda
-    output: ../../../assets/images/przyroda
+    output: /zwierzyncopedia/assets/images/przyroda
     rename: safe
     categories:
       - image
   - name: ludzie-images
     label: Portrety i ilustracje biograficzne
     input: src/assets/images/ludzie
-    output: ../../../assets/images/ludzie
+    output: /zwierzyncopedia/assets/images/ludzie
     rename: safe
     categories:
       - image
   - name: biblioteka-images
     label: Skany i ilustracje biblioteki
     input: src/assets/images/biblioteka
-    output: ../../../assets/images/biblioteka
+    output: /zwierzyncopedia/assets/images/biblioteka
     rename: safe
     categories:
       - image
