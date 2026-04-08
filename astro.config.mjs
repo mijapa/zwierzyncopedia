@@ -1,11 +1,15 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkFigureCaption from '@microflash/remark-figure-caption';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mijapa.github.io',
   base: '/zwierzyncopedia',
+  markdown: {
+    remarkPlugins: [remarkFigureCaption],
+  },
   integrations: [
     starlight({
       title: 'Zwierzyńcopedia',
@@ -21,6 +25,9 @@ export default defineConfig({
       logo: {
         src: './src/assets/images/logo-stowarzyszenia.svg',
       },
+      components: {
+        SiteTitle: './src/components/SiteTitle.astro',
+      },
       head: [
         {
           tag: 'link',
@@ -28,6 +35,15 @@ export default defineConfig({
             rel: 'icon',
             href: '/zwierzyncopedia/favicon.svg',
             type: 'image/svg+xml',
+          },
+        },
+        {
+          tag: 'link',
+          attrs: {
+            rel: 'alternate',
+            type: 'application/rss+xml',
+            title: 'Zwierzyńcopedia RSS',
+            href: '/zwierzyncopedia/rss.xml',
           },
         },
       ],

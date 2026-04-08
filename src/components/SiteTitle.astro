@@ -1,0 +1,78 @@
+---
+import { Image } from 'astro:assets';
+import compactLogo from '../assets/images/logo-mobile.svg';
+import wideLogo from '../assets/images/logo-stowarzyszenia.svg';
+
+const { siteTitle, siteTitleHref } = Astro.locals.starlightRoute;
+---
+
+<a href={siteTitleHref} class="site-title sl-flex">
+  <Image
+    class="site-title__logo site-title__logo--wide"
+    src={wideLogo}
+    alt=""
+    aria-hidden="true"
+    loading="eager"
+    fetchpriority="high"
+    width={240}
+    height={64}
+  />
+  <Image
+    class="site-title__logo site-title__logo--compact"
+    src={compactLogo}
+    alt=""
+    aria-hidden="true"
+    loading="eager"
+    fetchpriority="high"
+    width={54}
+    height={54}
+  />
+  <span translate="no">{siteTitle}</span>
+</a>
+
+<style>
+  @layer starlight.core {
+    .site-title {
+      align-items: center;
+      gap: var(--sl-nav-gap);
+      font-size: var(--sl-text-h4);
+      font-weight: 600;
+      color: var(--sl-color-text-accent);
+      text-decoration: none;
+      white-space: nowrap;
+      min-width: 0;
+    }
+
+    .site-title span {
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .site-title__logo {
+      flex-shrink: 0;
+      height: calc(var(--sl-nav-height) - 2 * var(--sl-nav-pad-y));
+      width: auto;
+      max-width: 100%;
+      object-fit: contain;
+      object-position: 0 50%;
+    }
+
+    .site-title__logo--compact {
+      display: none;
+    }
+
+    @media (max-width: 720px) {
+      .site-title {
+        gap: 0.5rem;
+      }
+
+      .site-title__logo--wide {
+        display: none;
+      }
+
+      .site-title__logo--compact {
+        display: block;
+      }
+    }
+  }
+</style>

@@ -4,18 +4,52 @@
 # =============================================================================
 
 # Lokalizacja plików multimedialnych (zdjęcia, skany, mapy)
+# Nowe pliki z CMS trafiają do src/assets/images, aby Astro mogło je optymalizować.
+# `output` jest publiczną ścieżką wpisywaną przez Pages CMS do treści, więc
+# zachowujemy jedną, stabilną i zgodną z bazowym URL-em konwencję `/zwierzyncopedia/assets/images/...`.
 media:
-  input: public/assets/images
-  output: /assets/images
-  categories:
-    - label: Architektura
-      path: architektura
-    - label: Przyroda
-      path: przyroda
-    - label: Ludzie
-      path: ludzie
-    - label: Mapy i plany
-      path: mapy
+  - name: uklad-urbanistyczny-images
+    label: Obrazy artykułów o układzie urbanistycznym
+    input: src/assets/images/uklad-urbanistyczny
+    output: /zwierzyncopedia/assets/images/uklad-urbanistyczny
+    rename: safe
+    categories:
+      - image
+  - name: architektura-images
+    label: Obrazy artykułów o architekturze
+    input: src/assets/images/architektura
+    output: /zwierzyncopedia/assets/images/architektura
+    rename: safe
+    categories:
+      - image
+  - name: utracone-images
+    label: Obrazy dziedzictwa utraconego
+    input: src/assets/images/utracone
+    output: /zwierzyncopedia/assets/images/utracone
+    rename: safe
+    categories:
+      - image
+  - name: przyroda-images
+    label: Obrazy artykułów przyrodniczych
+    input: src/assets/images/przyroda
+    output: /zwierzyncopedia/assets/images/przyroda
+    rename: safe
+    categories:
+      - image
+  - name: ludzie-images
+    label: Portrety i ilustracje biograficzne
+    input: src/assets/images/ludzie
+    output: /zwierzyncopedia/assets/images/ludzie
+    rename: safe
+    categories:
+      - image
+  - name: biblioteka-images
+    label: Skany i ilustracje biblioteki
+    input: src/assets/images/biblioteka
+    output: /zwierzyncopedia/assets/images/biblioteka
+    rename: safe
+    categories:
+      - image
 
 # Kolekcje treści – każda odpowiada sekcji w wiki
 content:
@@ -39,12 +73,17 @@ content:
       - name: image
         label: Zdjęcie główne
         type: image
+        options:
+          media: uklad-urbanistyczny-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Treść artykułu
         type: rich-text
+        options:
+          format: markdown
+          media: uklad-urbanistyczny-images
 
   # ── Dziedzictwo: Architektura ─────────────────────────────────────────
   - name: architektura
@@ -77,12 +116,17 @@ content:
       - name: image
         label: Zdjęcie główne
         type: image
+        options:
+          media: architektura-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Treść artykułu
         type: rich-text
+        options:
+          format: markdown
+          media: architektura-images
 
   # ── Dziedzictwo utracone ──────────────────────────────────────────────
   - name: utracone
@@ -107,12 +151,17 @@ content:
       - name: image
         label: Zdjęcie historyczne
         type: image
+        options:
+          media: utracone-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Treść artykułu
         type: rich-text
+        options:
+          format: markdown
+          media: utracone-images
 
   # ── Przyroda ──────────────────────────────────────────────────────────
   - name: przyroda
@@ -134,12 +183,17 @@ content:
       - name: image
         label: Zdjęcie główne
         type: image
+        options:
+          media: przyroda-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Treść artykułu
         type: rich-text
+        options:
+          format: markdown
+          media: przyroda-images
 
   # ── Ludzie ────────────────────────────────────────────────────────────
   - name: ludzie
@@ -164,12 +218,17 @@ content:
       - name: image
         label: Portret / zdjęcie
         type: image
+        options:
+          media: ludzie-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Biogram
         type: rich-text
+        options:
+          format: markdown
+          media: ludzie-images
 
   # ── Biblioteka ────────────────────────────────────────────────────────
   - name: biblioteka
@@ -197,9 +256,14 @@ content:
       - name: image
         label: Miniatura / skan okładki
         type: image
+        options:
+          media: biblioteka-images
       - name: image_alt
         label: Tekst alternatywny zdjęcia (opis dla wyszukiwarek i czytników ekranu)
         type: string
       - name: body
         label: Treść / transkrypcja
         type: rich-text
+        options:
+          format: markdown
+          media: biblioteka-images

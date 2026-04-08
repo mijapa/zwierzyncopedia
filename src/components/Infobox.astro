@@ -1,0 +1,70 @@
+---
+interface Props {
+  image?: string;
+  alt?: string;
+  caption?: string;
+  data: Array<{ label: string; value: string }>;
+}
+
+const imageUrls = import.meta.glob('../assets/images/**/*.{avif,gif,jpeg,jpg,png,svg,webp}', {
+  eager: true,
+  import: 'default',
+  query: '?url',
+});
+
+function resolveImagePath(image?: string) {
+  if (!image) return undefined;
+  if (image.startsWith('http://') || image.startsWith('https://')) return image;
+
+  const publicAssetPrefixes = ['/zwierzyncopedia/assets/images/', '/assets/images/'];
+  const matchedPublicPrefix = publicAssetPrefixes.find((prefix) => image.startsWith(prefix));
+
+  if (matchedPublicPrefix) {
+    const normalizedPublicImage = image.slice(matchedPublicPrefix.length);
+    const resolvedPublicImage = imageUrls[`../assets/images/${normalizedPublicImage}`];
+
+    if (resolvedPublicImage) {
+      return resolvedPublicImage;
+    }
+
+    return image;
+  }
+
+  if (image.startsWith('/zwierzyncopedia/') || image.startsWith('/assets/')) return image;
+
+  const normalizedImage = image.startsWith('/') ? image.slice(1) : image;
+  const resolvedImage = imageUrls[`../assets/images/${normalizedImage}`];
+
+  if (resolvedImage) {
+    return resolvedImage;
+  }
+
+  console.warn(
+    `[Infobox] Could not resolve image "${image}" from src/assets/images. ` +
+      'Check the key or pass an explicit absolute URL if this is intentional.',
+  );
+
+  return image;
+}
+
+const { image, alt, caption, data } = Astro.props;
+const imageSrc = resolveImagePath(image);
+const imageAlt = alt ?? '';
+---
+
+<aside class="zw-infobox">
+  {imageSrc && (
+    <figure class="zw-infobox__figure">
+      <img src={imageSrc} alt={imageAlt} loading="lazy" decoding="async" />
+      {caption && <figcaption>{caption}</figcaption>}
+    </figure>
+  )}
+  <dl class="zw-infobox__data">
+    {data.map(({ label, value }) => (
+      <>
+        <dt>{label}</dt>
+        <dd set:html={value} />
+      </>
+    ))}
+  </dl>
+</aside>

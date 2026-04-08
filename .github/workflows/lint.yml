@@ -39,3 +39,20 @@ jobs:
           # Pliki YAML do walidacji
           file_or_dir: ".yamllint.yml .markdownlint.yml .pre-commit-config.yaml .pages.yml .github/workflows/"
           strict: false
+
+  vale:
+    name: Vale
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozytorium
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Uruchom pre-commit dla Vale
+        uses: pre-commit/action@v3.0.1
+        with:
+          extra_args: vale --all-files
