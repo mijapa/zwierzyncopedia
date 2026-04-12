@@ -30,6 +30,10 @@ W programie renesansowej *villi* rzeka pełniła kilka funkcji:
 - **wodna** — zasilała system stawów, kanałów i grobli, w tym staw z czterema wyspami (na którego centralnej wyspie stanął [Kościół na Wodzie](/zwierzyncopedia/dziedzictwo/architektura/kosciol-na-wodzie/))
 - **komunikacyjna** — bród na Wieprzu stanowił przeprawę łączącą villę z drogą na Klemensów
 
+![Mentalny obraz wnętrza krajobrazowego villi w pradolinie rzeki Wieprz, okolonej wzgórzami Bukowa Góra, Kamienna Góra, Obrocka Góra, Folwarczna Góra. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/wnetrze-krajobrazowe-villi.png)
+
+![Formy ukształtowania terenu wokół lokalizacji projektowanej villi — fragment pradoliny rzeki Wieprz. Hipotetyczna rekonstrukcja, oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/formy-terenu-lokacja.png)
+
 W epoce sentymentalnej (XVIII–XIX w.) nad Wieprzem zaaranżowano *park sentymentalny* z kanałami wodnymi, mostkami i altanami. W lecie gondolami pływano po wodach pałacowego stawu, kanałem i nurtem [Świerszcza](/zwierzyncopedia/przyroda/stawy-echo/) aż w głąb lasu po Malowany Most.[^2]
 
 ## Regulacja koryta

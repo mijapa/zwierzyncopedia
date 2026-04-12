@@ -24,6 +24,8 @@ Pojęcie **palimpsestu** — pergaminu, z którego zeskrobano dawny tekst, by na
 
 ![Zasady kompozycyjne renesansowego układu villowego — rekonstrukcja.](../../../assets/images/studium/rekonstrukcja-zasady-kompozycyjne.png)
 
+![Model idealnej villi — osie kompozycyjne nałożone na teren założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/model-villi-osie.png)
+
 Pierwotna kompozycja oparta na wzorcu *ad quadratum* obejmowała:[^2]
 
 1. centralną modrzewiową *willę*
@@ -39,6 +41,8 @@ Pierwotna kompozycja oparta na wzorcu *ad quadratum* obejmowała:[^2]
 11. oparkaniony *zwierzyniec* z altaną widokową nad Wielkim Bagnem
 
 Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez stulecia zmian stylistycznych i funkcjonalnych — jest to najmocniejszy dowód na fundamentalne znaczenie pierwotnego geometrycznego planu.
+
+![Kanwa renesansowa — oryginalny układ geometryczny la villa ideale z końca XVI w. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/kanwa-renesansowa.png)
 
 ## 2. Maniera renesansu francuskiego (poł. XVII w.)
 
@@ -61,20 +65,31 @@ Model *idealnej villi* sprawił przetrwanie kluczowych osi renesansowych przez s
 
 ![Rekonstrukcja układu barokowego.](../../../assets/images/studium/rekonstrukcja-uklad-barokowy.png)
 
+![Rekonstrukcja — rozbudowa renesansu francuskiego, elementy zewnętrzne założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-renesans-fr-ext.png)
+
 Ordynat-architekt i znawca sztuki ogrodowej dodał do założenia warstwę sakralną i ogrodową:[^4]
 
 - **[Kościół na Wodzie](/zwierzyncopedia/dziedzictwo/architektura/kosciol-na-wodzie/)** — barokowa świątynia kontrreformacyjna wg schematu *Il Gesù* (1741–1747), wzniesiona na centralnej wyspie stawu
 - **wzory kwater ogrodowych** zaprojektowane osobiście przez ordynata
+
+![Oficyny i kwatery ogrodowe — rozplanowanie wokół willi w okresie barokowym. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/oficyny-kwatery.png)
+
 - **przeprawa brodem** na Wieprzu
 - **droga na Klemensów** — nową rezydencję ordynacką
 
 **Konkluzja:** wzmocnienie kanwy *układu villowego.*
+
+![Rekonstrukcja — elementy zewnętrzne założenia w fazie barokowej. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-barok-ext.png)
 
 ## 4. Maniera sentymentalna (koniec XVIII w.)
 
 **XI ordynat — Aleksander August Zamoyski**
 
 ![Rekonstrukcja maniery sentymentalnej.](../../../assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
+
+![Rekonstrukcja maniery sentymentalnej na mapie pomiarowej 1829 — pełna numeracja obiektów założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-sentyment-studium.png)
+
+![Klimat założenia w manierze sentymentalnej — park z kanałami, mostkami i altanami. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/maniera-sentymentalna-klimat.png)
 
 Okres wewnętrznych reform i nowej wrażliwości estetycznej:[^5]
 
@@ -91,7 +106,7 @@ Za tego ordynata rozpoczęto regulację koryta Wieprza — likwidację licznych 
 ## 5. Ogrody „romantycznych i oświeconych" (pocz. XIX w.)
 
 **XII ordynat — Stanisław Kostka Zamoyski** i żona **Zofia z Czartoryskich**
-
+![Zofia z Czartoryskich i Izabela Czartoryska — inspiratorki ogrodów romantycznych w Zwierzyńcu. Ze zbiorów studium.](../../../assets/images/studium/zofia-izabela-ogrody.jpg)
 Córka Izabeli Czartoryskiej założyła ogrody romantyczne ze stylowymi artefaktami:[^6]
 
 - **swobodne ogrody w stylu angielskim**
@@ -106,25 +121,46 @@ Były to **końcowe lata świetności** starej willi. Ostatni dokument wzmiankuj
 
 **Konkluzja:** utrwalenie kanwy pierwotnego *układu villowego.*
 
+![Ewolucja posiadłości — rozwój założenia villowego od renesansu po XIX wiek. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/posiadlosc-rozwoj.png)
+
 ## 6. Osada urzędnicza (od ok. 1842)
 
 **XIII ordynat — Konstanty Zamoyski**
 
 Na [mapie z 1842 r.](/zwierzyncopedia/biblioteka/mapy-i-plany/) willi już nie ma — w jej miejscu pusta przestrzeń pomiędzy czterema murowanymi oficynami. Pojawiły się nowe elementy osady:[^7]
 
+![Plan z XIX w. — budynki osady urzędniczej na terenie dawnego założenia villowego. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/plan-xix-w-budynki.png)
+
 - browar
 - Willa *Plenipotentówka*
+
+![Plan Willi Plenipotentówki — nowy budynek na terenie dawnego założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/plan-plenipotentowka.png)
+
 - murowane i nowe drewniane domy urzędnicze
 
 **XIV ordynat — Tomasz Franciszek Zamoyski** nadbudował piętro jednej z oficyn, tworząc *Pałac Administracji [Ordynacji Zamojskiej](/zwierzyncopedia/dziedzictwo/architektura/zarzad-ordynacji/)*.
 
 **Konkluzja:** przemysłowe lokalizacje i zubożenie kanwy *układu villowego* — ale zachowanie kluczowych osi kompozycyjnych.
 
+![Rekonstrukcja historycznych dojazdów do założenia villowego. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-dojazdy.png)
+
+![Rekonstrukcja historycznej sieci dróg w otoczeniu założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-drogi.png)
+
+![Ortofotomapa współczesna — stan obecny założenia na tle krajobrazu pradoliny Wieprza. Źródło: Geoportal.](../../../assets/images/studium/ortofotomapa-wspolczesna.png)
+
 ## Znaczenie palimpsestu
 
 Ewolucja układu stanowi jeden z najmocniejszych dowodów na to, że Zwierzyniec był od początku postrzegany jako cenna, główna siedziba rodowa. Kolejne inwestycje nie byłyby realizowane wokół podrzędnego „dworku myśliwskiego". Fakt, że przez ponad 200 lat najwybitniejsi przedstawiciele rodu inwestowali w rozbudowę tego miejsca, świadczy o jego nieprzerwanej, wysokiej randze.[^8]
 
 Zasadnicze fazy przekształceń — od renesansu idealnego po romantyzm i osadę urzędniczą — nie zniszczyły pierwotnego geometrycznego kodu. Wg autorów studium *Villa Restituta*, mapa pomiarowa z 1829 r. jest tego ostatecznym dowodem: „odcisk fantomowy pierwotnego planu, którego regularność trudno wytłumaczyć organicznym narastaniem".[^9]
+
+![Palimpsest dowodowy — nałożenie warstw chronologicznych na wspólnej planszy. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/palimpsest-dowody.png)
+
+![Rozwarstwienie powierzchniowe — analiza poszczególnych faz stylistycznych założenia. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rozwarstwienie-powierzchniowe.png)
+
+![Konstelacja dowodów — schemat powiązań między źródłami potwierdzającymi rekonstrukcję układu villowego. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/konstelacja-dowodow.png)
+
+![Maniera klasyczna — rekonstrukcja fazy klasycystycznej założenia (IX ordynat). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/maniera-klasyczna.png)
 
 ---
 
