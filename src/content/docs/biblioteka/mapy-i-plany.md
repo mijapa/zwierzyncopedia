@@ -18,7 +18,7 @@ Kartografia stanowi jeden z najważniejszych filarów rekonstrukcji [założenia
 
 ## Plan willi ujazdowskiej — A. Albertini, 1606
 
-![Plan willi ujazdowskiej Albertiniego z 1606 r. — wzorzec porównawczy dla rekonstrukcji willi w Zwierzyńcu.](../../../assets/images/studium/villa-ujazdow-plan-albertini.png)
+![Plan willi ujazdowskiej Albertiniego z 1606 r. — wzorzec porównawczy dla rekonstrukcji willi w Zwierzyńcu.](../../../assets/images/studium/villa-ujazdow-ogrody-albertini.jpg)
 
 Najważniejszy *dowód analogiczny* w studium nad zwierzyniecką villą. Plan sporządzony przez A. Albertiniego w 1606 r. przedstawia królewską drewnianą willę Anny Jagiellonki w Ujazdowie pod Warszawą — rezydencję, którą [Jan Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/) prawdopodobnie poznał osobiście podczas wesela z Krystyną Radziwiłłówną 12 stycznia 1578 roku.[^1]
 
@@ -26,11 +26,17 @@ Plan ukazuje kompletny układ villowy: centralny budynek o wymiarach ok. 60×12 
 
 Rzut przyziemia willi ujazdowskiej służy jako klucz do odczytania inwentarzy zwierzynieckich — porównanie wymiarów, układu pomieszczeń i programu funkcjonalnego pozwala na rekonstrukcję modrzewiowej willi Zamoyskich.
 
-![Rzut przyziemia willi ujazdowskiej.](../../../assets/images/studium/villa-ujazdow-plan-przyziemia.png)
+![Rzut przyziemia willi ujazdowskiej.](../../../assets/images/studium/willa-ujazdow-przyziemie-studium.png)
+
+![Mapa Ujazdowa z okresu po 1606 r. — kontekst kartograficzny królewskiej villi. Domena publiczna.](../../../assets/images/studium/mapa-ujazdow-albertini.png)
+
+![Założenie królewskiej villi Anny Jagiellonki na planie A. Albertiniego, 1606 r. — wersja czarno-biała. Domena publiczna.](../../../assets/images/studium/villa-ujazdow-plan-czb.jpg)
+
+![Szkic planu Albertiniego z 1606 r. — ogrody kwaterowe i zabudowania villi ujazdowskiej. Domena publiczna.](../../../assets/images/studium/plan-albertiniego-1606.png)
 
 ## Mapa józefińska — Friedrich von Mieg, 1779–1783
 
-![Fragment mapy józefińskiej z widocznym układem villowym Zwierzyńca.](../../../assets/images/studium/mapa-jozefinska-uklad-villowy.png)
+![Fragment mapy józefińskiej z widocznym układem villowym Zwierzyńca.](../../../assets/images/studium/mapa-topograficzna-galicja.png)
 
 Pierwsza mapa dokumentująca układ przestrzenny Zwierzyńca. Sporządzona przez austriackiego oficera ppłk. Friedricha von Miega w ramach wielkiej akcji skartografowania Galicji dla Habsburgów (tzw. zdjęcie józefińskie).[^3]
 
@@ -43,11 +49,11 @@ Na mapie widoczne są:
 
 Mapa posiada istotne niedokładności liniowe i kątowe, co było konsekwencją jej wojskowego przeznaczenia. Niemniej potwierdza istnienie elementów znanych z wcześniejszych źródeł pisanych: centralnego budynku, systemu stawów i ogrodzonego zwierzyńca. Badacze zwracają uwagę na tzw. *suchy kanał* — starorzecze będące świadkiem wcześniejszego układu wodnego — jako przykład dowodu z retrospekcji kartograficznej.[^4]
 
-![Bezpośrednie odczytanie mapy józefińskiej.](../../../assets/images/studium/mapa-jozefinska-zwierzyniec.png)
+![Fragment mapy józefińskiej — powiększenie terenu założenia villowego. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/mapa-jozefinska-fragment.png)
 
 ## Mapa pomiarowa Ordynacji Zamojskiej, 1829–1830
 
-![Mapa pomiarowa Zwierzyńca z lat 1829–1830 — najsilniejszy dowód kartograficzny na istnienie renesansowego układu geometrycznego.](../../../assets/images/studium/mapa-pomiarowa-1829.png)
+![Mapa pomiarowa Zwierzyńca z lat 1829–1830 — najsilniejszy dowód kartograficzny na istnienie renesansowego układu geometrycznego.](../../../assets/images/studium/kod-geometryczny-fantom.png)
 
 Najsilniejszy wizualny argument w całym studium nad villą. Geometryczna mapa pomiarowa Zwierzyńca, sporządzona na zlecenie XII ordynata Stanisława Kostki Zamoyskiego, zarejestrowała układ przestrzenny osady z bezprecedensową dokładnością.[^5]
 
@@ -62,7 +68,7 @@ Na mapie czytelne są:
 - **długi kanał** wzdłuż grobli dojazdowej
 - **zabudowania gospodarcze**, budynek wrotnych, oranżeria
 
-Wyraźna osiowość, symetria oficyn i regularny podział przestrzeni to — wg Lucyny Matławskiej-Patyk i Michała Patyka — *dispositio* zaplanowanego projektu renesansowego, zarejestrowanego przez mierniczych ponad 230 lat po jego powstaniu. Autorzy studium *Villa Restituta* (2025) określają tę mapę jako „ostateczny zapis przetrwania kodu geometrycznego — odcisk fantomowy pierwotnego planu, którego regularność trudno wytłumaczyć organicznym narastaniem".[^6]
+Wyraźna osiowość, symetria oficyn i regularny podział przestrzeni to — wg Lucyny Matławskiej-Patyk i Michała Patyka — *dispositio* zaplanowanego projektu renesansowego, zarejestrowanego przez mierniczych ponad 230 lat po jego powstaniu. W studium *Villa Restituta* (2025) określają tę mapę jako „ostateczny zapis przetrwania kodu geometrycznego — odcisk fantomowy pierwotnego planu, którego regularność trudno wytłumaczyć organicznym narastaniem".[^6]
 
 Jest to jednocześnie **ostatni dokument kartograficzny potwierdzający istnienie modrzewiowej willi.** Na kolejnej znanej mapie — z 1842 roku — willi już nie ma.
 
@@ -72,11 +78,15 @@ Sporządzony za XIII ordynata Konstantego Zamoyskiego, który powierzył Zarząd
 
 Na mapie pojawiają się za to nowe elementy osady urzędniczej: browar, *Willa Plenipotentówka*, murowane i nowe drewniane domy urzędnicze.
 
+![Plan gruntów i lasów Zwierzyńca z 1842 r. — pierwszy dokument kartograficzny bez centralnej willi. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/plan-gruntow-1842.png)
+
 ## Plan stawu i nizin — L. Dorant, 1872
 
 Plan sporządzony „do wiedzy Rządcy Klucza Zwierzynieckiego" przez L. Doranta dokumentuje szczegółowo układ wodny osady za XIV ordynata Tomasza Franciszka Zamoyskiego. Odnotowuje kopiec widokowy — relikt ogrodów kwaterowych — oraz oficynę nadbudowaną piętrem, zwaną odtąd *Pałacem Administracji Ordynacji Zamojskiej*.[^8]
 
 ## Współczesna kartografia
+
+![Mapa Ordynacji Zamojskiej z 1605 r. — najstarsze znane przedstawienie kartograficzne dóbr ordynackich. Domena publiczna.](../../../assets/images/studium/mapa-ordynacji-1605.png)
 
 W Miejscowym Planie Zagospodarowania Przestrzennego Zwierzyńca istnieje zapis o zabytkowym układzie przestrzennym wpisanym do rejestru „A" zabytków nieruchomych województwa lubelskiego (nr A/1304), obejmujący „część układu przestrzennego miejscowości w granicach zakreślonych wg załączonego planu, wraz z oznaczoną na planie zabudową, zadrzewieniem, wodami, ciągami komunikacyjnymi i ukształtowaniem krajobrazu terenu".[^9]
 

@@ -15,6 +15,8 @@ sidebar:
     variant: caution
 ---
 
+![Villa Restituta — Pomnik Historii. Kompozycja miasta-ogrodu i założenia villowego.](../../../assets/images/studium/villa-restituta-pomnik-historii.png)
+
 Założenie villowe w Zwierzyńcu — *Villa Restituta* — posiada, w ocenie autorów Studium, wyjątkowe wartości uzasadniające uznanie za **Pomnik Historii**[^1]. Niniejszy artykuł podsumowuje argumentację opartą na waloryzacji metodą JARK-WAK, analizie porównawczej oraz kryteriach ustawowych.
 
 ## Metoda JARK-WAK
@@ -25,7 +27,9 @@ Metoda JARK-WAK, opracowana przez prof. Janusza Bogdanowskiego w krakowskiej szk
 - **ZWAK** (Zespół Wnętrz Architektoniczno-Krajobrazowych) — skala urbanistyczna, grupująca powiązane wnętrza,
 - **WAK** (Wnętrze Architektoniczno-Krajobrazowe) — skala architektoniczna, definiująca percepcyjnie wyodrębnioną przestrzeń.
 
-W opracowaniu krajobrazowym RPN z 1998 r. wyodrębniono m.in. **ZWAK 019** (Zwierzyniec — nowożytna kompozycja rezydencjonalna OZ i miasto-ogród). W ramach tego zespołu autorzy Studium zidentyfikowali kluczowy podzespół **ZWAK villa**, złożony z pięciu wnętrz.
+W opracowaniu krajobrazowym RPN z 1998 r. wyodrębniono m.in. **ZWAK 019** (Zwierzyniec — nowożytna kompozycja rezydencjonalna OZ i miasto-ogród). W ramach tego zespołu L. Matławska-Patyk i M. Patyk zidentyfikowali kluczowy podzespół **ZWAK villa**, złożony z pięciu wnętrz.
+
+![ZWAK 019 — Zwierzyniec w całości objęty otuliną Roztoczańskiego Parku Narodowego.](../../../assets/images/studium/zwak-019-otulina-rpn.jpg)
 
 ## Wnętrza architektoniczno-krajobrazowe
 
@@ -50,6 +54,8 @@ Każdy komponent oceniono w czterech kategoriach (1–5): wartość historyczna,
 | WAK 2 — ogrody formalne | 4 | 4 | 5 | 4 | **17** | wysoki |
 | WAK 4 — zwierzyńczyk i kanał | 4 | 4 | 4 | 4 | **16** | wysoki |
 
+![Formy komponowanego założenia rezydencjonalnego i miasta-ogrodu w operacie krajobrazowym RPN.](../../../assets/images/studium/formy-komponowane-zalozenia.png)
+
 Najwyższą, nadrzędną wartość posiada **niematerialny układ kompozycyjny** — renesansowa siatka geometryczna organizująca całą przestrzeń. Kluczowym elementem wymagającym bezwzględnej ochrony jest *pusta przestrzeń po willi* (WAK 1), która jako negatywowy ślad serca założenia ma najwyższą wartość symboliczną i naukową.
 
 ## Kontekst porównawczy
@@ -67,7 +73,7 @@ Zwierzyniec wraz z Ujazdowem reprezentuje unikalny wariant *villi alla polacca i
 
 ## Kryteria uznania za Pomnik Historii
 
-Autorzy Studium wskazują cztery ustawowe kryteria spełniane przez założenie[^5]:
+L. Matławska-Patyk i M. Patyk wskazują cztery ustawowe kryteria spełniane przez założenie[^5]:
 
 ### Szczególna wartość dla kultury
 
@@ -115,7 +121,13 @@ Autorzy postulują również wznowienie działalności Instytutu Renesansu w Aka
 
 ## Status ochrony prawnej
 
+![Zabytek wpisany do rejestru „A" zabytków nieruchomych województwa lubelskiego (A/1304).](../../../assets/images/studium/rejestr-zabytkow-zwierzyniec.jpg)
+
 Założenie villowe w Zwierzyńcu figuruje w rejestrze „A" zabytków nieruchomych województwa lubelskiego pod numerem **A/1304**. Wpis obejmuje część układu przestrzennego miejscowości wraz z zabudową, zadrzewieniem, wodami, ciągami komunikacyjnymi i ukształtowaniem krajobrazu[^10]. Zwierzyniec (ZWAK 019) jest w całości objęty otuliną Roztoczańskiego Parku Narodowego.
+
+![Miejscowy Plan Zagospodarowania Przestrzennego Zwierzyńca (System Informacji Przestrzennej 1:5 000).](../../../assets/images/studium/mpzp-zwierzyniec.jpg)
+
+![Obszar zabytkowy Zwierzyńca wg Narodowego Instytutu Dziedzictwa (System Informacji Przestrzennej 1:5 000).](../../../assets/images/studium/obszar-zabytkowy-nid.jpg)
 
 ---
 

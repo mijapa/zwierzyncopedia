@@ -22,6 +22,9 @@ sidebar:
 Na kanwie naturalnych cieków utworzono *układ wodny*, który wzmocnił ochronę drewnianej zabudowy i dzięki któremu willa trwała pomyślnie blisko 250 lat. Pierwotne elementy systemu obejmowały:
 
 - **staw villowy** — w osi głównej założenia, otoczony lipami, powiązany z dziedzińcem podjazdowym
+
+![Sadzawka w Zwierzyńcu — widok na staw villowy w kontekście krajobrazu założenia. Ze zbiorów studium.](../../../../assets/images/studium/sadzawka-zwierzyniec.jpg)
+
 - **kanały odwadniające** — po obu stronach grobli dojazdowej
 - **mostek z zastawkami** — system regulacji poziomu wody, łączący groblę z willą
 - **vivarium** (*zwierzyńczyk*) — wydzielona wodami przestrzeń ogrodu z łagodnymi zwierzętami[^2]
@@ -56,7 +59,7 @@ Za czasów Marysieńki *strojne gondole niosły damy i panów po wodach pałacow
 
 ## Mapa józefińska (1779–1783)
 
-![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](../../../../assets/images/studium/mapa-jozefinska-zwierzyniec.png)
+![Fragment mapy topograficznej Galicji ppłk. Friedricha von Miega (1779–1783) z zaznaczonym Zwierzyńcem.](../../../../assets/images/studium/mapa-jozefinska-fragment.png)
 
 Mapa ppłk. Friedricha von Miega rejestruje stan systemu wodnego: drewnianą willę, stawy, suchy kanał (zaznaczony na terenie zwierzyńczyka), drogę po grobli zamykającej wody południowego stawu villowego. Staw villowy swym przelewem zasilał staw kościelny przez kanał ulgi — dziś zasypany, co rodzi konsekwencje zawilgoceń fundamentów pobliskich oficyn.[^8]
 

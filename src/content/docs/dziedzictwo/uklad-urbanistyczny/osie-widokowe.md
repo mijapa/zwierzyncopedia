@@ -19,7 +19,11 @@ sidebar:
 
 Na teren przyszłej willi nałożono trzy nakładające się figury geometryczne — tę samą zasadę kompozycyjną, którą Jerzy Kowalczyk wykazał w odniesieniu do planu Zamościa:
 
-![Renesansowy model geometryczny: krzyż grecki, kwadrat i koło widnokręgu. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/model-geometryczny.png)
+![Człowiek witruwiański Leonarda da Vinci — renesansowy ideał wpisania ludzkiego ciała w kwadrat i koło, będący filozoficznym fundamentem zasady ad quadratum.](../../../../assets/images/studium/czlowiek-witruwianski.png)
+
+![Krzyż grecki wpisany w kwadrat i koło — abstrakcyjny schemat modelu geometrycznego renesansowej villi. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/krzyz-grecki-model.png)
+
+![Model geometryczny nałożony na lokację — zasady kompozycyjne w terenie. Ze zbiorów studium.](../../../../assets/images/studium/model-geometryczny-lokacja.jpg)
 
 | Figura | Funkcja | Znaczenie |
 |--------|---------|-----------|
@@ -28,6 +32,14 @@ Na teren przyszłej willi nałożono trzy nakładające się figury geometryczne
 | **Koło** | Widnokrąg krajobrazowy | Miara kątowa kierunków osi widokowych i duktów leśnych |
 
 Zastosowanie idealnych figur geometrycznych było projektem stworzenia ziemskiego mikrokosmosu, w którym panuje doskonały porządek — zarówno w sferze społecznej (*respublica*), jak i naturalnej (*natura naturans*).[^2]
+
+![Kwadratura koła — zasada geometryczna leżąca u podstaw renesansowej kompozycji ad quadratum.](../../../../assets/images/studium/kwadratura-kola.png)
+
+![Krzyż wpisany w kwadrat i koło — schemat nakładania figur geometrycznych w modelu villi. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/krzyz-kwadrat-kolo.png)
+
+![Pozycja geometryczna — analiza położenia założenia względem figur idealnych. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/pozycja-geometryczna.png)
+
+![Schemat zasad kompozycyjnych — zasady geometryczne organizacji przestrzeni villi. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/zasady-kompozycyjne-studium.png)
 
 ## Główne osie
 
@@ -47,7 +59,7 @@ Za III ordynata *Sobiepana* i [Marysieńki](/zwierzyncopedia/ludzie/maria-kazimi
 
 [Jan Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/) wybrał lokację w rozległej pradolinie rzeki Wieprz, okolonej wzgórzami tworzącymi naturalne zamknięcie widokowe:
 
-![Lokacja idealnej willi — obraz mentalny wnętrza krajobrazowego pradoliny Wieprza. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/lokacja-idealnej-willi.png)
+![Mentalny obraz wnętrza krajobrazowego villi w pradolinie rzeki Wieprz, okolonej wzgórzami Bukowa Góra, Kamienna Góra, Obrocka Góra, Folwarczna Góra. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/wnetrze-krajobrazowe-villi.png)
 
 - **Bukowa Góra** — na południowym zachodzie, domknięcie mediany ogrodowej
 - **Kamienna Góra** — na północnym wschodzie
@@ -58,11 +70,15 @@ Otoczenie krajobrazowe wnętrza — dno doliny zamknięte wzgórzami — powiąz
 
 ## Orientacja „pięć na trzynastą"
 
-Oś główna układu villowego nie jest zorientowana zgodnie ze stronami świata — jest obrócona o ok. 30° na wschód od osi północ–południe. Autorzy Studium określają tę orientację metaforą „pięć na trzynastą" (kierunek wg tarczy zegara). Było to świadome rozwiązanie projektowe *podług nieba i zwyczaju polskiego*, zapewniające optymalne nasłonecznienie pomieszczeń willi i ogrodów kwaterowych oraz właściwe przewietrzanie.[^8]
+Oś główna układu villowego nie jest zorientowana zgodnie ze stronami świata — jest obrócona o ok. 30° na wschód od osi północ–południe. L. Matławska-Patyk i M. Patyk określają tę orientację metaforą „pięć na trzynastą" (kierunek wg tarczy zegara). Było to świadome rozwiązanie projektowe *podług nieba i zwyczaju polskiego*, zapewniające optymalne nasłonecznienie pomieszczeń willi i ogrodów kwaterowych oraz właściwe przewietrzanie.[^8]
 
-![Orientacja „pięć na trzynastą" — układ villowy nałożony na ortofotomapę. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/orientacja-piec-na-trzynasta.png)
+![Orientacja „pięć na trzynastą" — układ villowy nałożony na ortofotomapę. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/model-geometryczny-lokacja.jpg)
+
+![Plan założenia villowego z nałożoną siatką geometryczną — krzyż grecki, kwadrat i koło widnokręgu na podkładzie krajobrazowym. Oprac. L. Matławska-Patyk, M. Patyk.](../../../../assets/images/studium/plan-villa-siatka-geometryczna.png)
 
 Geometryczny *kod* czytelny jest w terenie do dziś, co stanowi jeden z najsilniejszych argumentów za celowością i perfekcją pierwotnego projektu.
+
+![Mapa pomiarowa Zwierzyńca z lat 1829–1830 — najsilniejszy dowód kartograficzny na istnienie renesansowego układu geometrycznego.](../../../../assets/images/studium/kod-geometryczny-fantom.png)
 
 ## Trwałość kompozycji
 

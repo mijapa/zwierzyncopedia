@@ -16,11 +16,15 @@ sidebar:
 
 **Ogrody kwaterowe** stanowiły jeden z kluczowych elementów programowych renesansowego [założenia villowego](/zwierzyncopedia/dziedzictwo/architektura/willa-zamoyskich/) w Zwierzyńcu. Ich oś — *mediana* — przecinała prostopadle oś główną architektury willi, tworząc centralną kompozycję *ad quadratum*.[^1]
 
+![Centralny plan ogrodowy z czterema kwaterami wpisany w okrąg — ucielśnienie renesansowej zasady ad quadratum.](../../../../assets/images/studium/ogrod-ad-quadratum.png)
+
 ## Renesansowa kompozycja (od ok. 1593)
 
 Centralna kompozycja *villi* została oparta na przecinających się dwóch głównych [osiach](/zwierzyncopedia/dziedzictwo/uklad-urbanistyczny/osie-widokowe/): osi *villowej* (architektury) prostopadłej do *mediany* — osi ogrodów kwaterowych. Na przecięciu obu osi wznosił się **kopiec widokowy**.[^2]
 
 Ogrody rozciągały się po ogrodowej stronie willi (od strony zachodniej), pomiędzy odsuniętymi drewnianymi oficynami, otwarte na nadwieprzańskie błonia. Kwatery — regularne, geometryczne podziały terenu obsadzone roślinami ozdobnymi i użytkowymi — odpowiadały wzorcowi *all'italiana* znanemu z willi ujazdowskiej i krakowskich ogrodów renesansowych.[^3]
+
+![Ogród botaniczny w Padwie — renesansowy wzorzec geometryczny ogrodów kwaterowych, z którym obcował Jan Zamoyski podczas studiów. Domena publiczna.](../../../../assets/images/studium/ogrod-botaniczny-padwa.png)
 
 Już pierwszy ordynat [Jan Zamoyski](/zwierzyncopedia/ludzie/jan-zamoyski/) zatrudniał specjalistów ogrodników:
 
@@ -42,6 +46,12 @@ Za III ordynata sprowadzono z Włoch ogrodnika **Jakuba Gerharda** (wcześniej z
 ## Dzieło *Ogrodnictwo* — Tomasz Antoni Zamoyski
 
 VII ordynat [Tomasz Antoni Zamoyski](/zwierzyncopedia/ludzie/tomasz-antoni-zamoyski/) (1707–1752) — architekt-amator i fundator [Kościoła na Wodzie](/zwierzyncopedia/dziedzictwo/architektura/kosciol-na-wodzie/) — był autorem niedokończonego dzieła pt. *Ogrodnictwo*, które wg opinii prof. Jerzego Kowalczyka jest **pierwszym polskim traktatem o sztuce ogrodowej**. Dzieło zawierało projekty kwater ogrodowych, które ordynat rysował osobiście.[^7]
+
+![Projektowane kwatery z dzieła Ogrodnictwo architekta Tomasza Antoniego, VII ordynata.](../../../../assets/images/studium/kwatery-ogrodnictwo-tomasz.jpg)
+
+![Wzory kwater ogrodowych projektu VII ordynata — wariant 1.](../../../../assets/images/studium/wzor-kwater-ogrodowych-a.jpg)
+
+![Wzory kwater ogrodowych projektu VII ordynata — wariant 2.](../../../../assets/images/studium/wzor-kwater-ogrodowych-b.jpg)
 
 Żona ordynata, **Teresa Aniela z Michowskich**, nadzorowała prace ogrodowe w Zwierzyńcu i Klemensowie. W 1745 r. wydała dyspozycję burgrabemu zamojskiemu: *„trzeba będzie ulice szpetce jakem się już z Was Panem rozmuwiła (...) ludzi do Ogrodu włoskiego, którzy zasadzają lipiną przynajmować..."*[^8]
 

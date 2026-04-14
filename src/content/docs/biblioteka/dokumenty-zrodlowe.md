@@ -15,6 +15,8 @@ sidebar:
 
 Poniższy wykaz obejmuje najważniejsze dokumenty źródłowe wykorzystane w studium *Villa Restituta w Zwierzyńcu* (2025) Lucyny Matławskiej-Patyk i Michała Patyka, a także inne archiwalia dotyczące historii Zwierzyńca.
 
+![Wyobrażenie prawdopodobne idealnej villi Jana Zamoyskiego — wizualizacja akwarelowa hipotetycznego wyglądu siedziby. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/akwarela-idealna-villa.jpg)
+
 ## Inwentarze
 
 ### Inwentarz klucza zwierzynieckiego (1732)
@@ -78,6 +80,8 @@ Relacja tajnego wywiadowcy w służbie Francji. Opisuje zwierzyniec (*Serennitz*
 ### Bonifazio Vanozzi — relacja (1596)
 
 Sekretarz legata papieskiego, przyjmowany w Zamościu. Opisuje ceremoniał dworski I ordynata, wystrój wnętrz pałacu i styl życia *prawie po królewsku*.[^14]
+
+![Drewniana willa w Ujazdowie — plan przyziemia wg A. Albertiniego, 1606 r. Domena publiczna.](../../../assets/images/studium/villa-ujazdow-rzut-albertini.jpg)
 
 ## Opracowania naukowe
 

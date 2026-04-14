@@ -18,6 +18,8 @@ sidebar:
 
 ## Wielkie Bagno — *theatrum naturae*
 
+![ZWAK villa — mapa Wnętrz Architektoniczno-Krajobrazowych WAK 1–5 na podkładzie OpenStreetMap. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/zwak-villa-mapa-wak.jpg)
+
 W renesansowym programie *villi* Zamoyskich rozległy, ogrodzony parkanem *zwierzyniec* o obwodzie ok. 30 km stanowił najbardziej zewnętrzny pierścień założenia.[^1] Na jego terenie, nad Wielkim Bagnem w dolinie Świerszcza, wzniesiono **altanę widokową** — punkt kontemplacji przyrody, który pełnił funkcję *theatrum naturae* — „teatru natury", miejsca obserwacji dzikiej fauny i flory w ich naturalnym środowisku.[^2]
 
 Altana nad Wielkim Bagnem wzmiankowana jest na mapie z 1842 r. i stanowi dowód kartograficzny na ciągłość programu villowego przez ponad dwa stulecia. Analogiczna altana w oparkanionem zwierzyńcu istniała w królewskiej [willi ujazdowskiej](/zwierzyncopedia/biblioteka/mapy-i-plany/), która była wzorcem dla założenia Zamoyskiego.[^3]
