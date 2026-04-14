@@ -145,7 +145,7 @@ Jan Zamoyski studiował w Padwie prawo (immatrykulacja 1561, rektorat 1563). Ko�
 
 ![Zasady kompozycyjne renesansowego układu villowego wg modelu idealnej villi — I ordynat Jan Sariusz Zamoyski (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-zasady-kompozycyjne.png)
 
-![Zasady kompozycyjne renesansowego układu villowego wg modelu idealnej villi — I ordynat Jan Sariusz Zamoyski (hipotetyczna rekonstrukcja, fragment). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/zasady-kompozycyjne-studium.png)
+![Zasady kompozycyjne renesansowego układu villowego wg modelu idealnej villi — I ordynat Jan Sariusz Zamoyski (hipotetyczna rekonstrukcja, fragment). Elementy modelu: 1. centralna modrzewiowa willa, 2. dwie symetryczne drewniane oficyny, 3. zabudowania gospodarcze, 4. mediana ogrodu kwaterowego z kopcem widokowym, 5. dukt leśny do ogrodów na Bukowej Górze, 6. staw villowy, 7. budynek wrotnych przed dziedzińcem, 8. grobla z drogą dojazdową, 9. most — system zastawek, 10. zwierzyńczyk, 11. oparkaniony zwierzyniec. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/zasady-kompozycyjne-studium.png)
 
 ### Osie i siatka geometryczna
 
@@ -167,25 +167,25 @@ Jan Zamoyski studiował w Padwie prawo (immatrykulacja 1561, rektorat 1563). Ko�
 
 ### 2. Renesans francuski (poł. XVII w.)
 
-![Na kanwie renesansowego układu villowego — maniera renesansu francuskiego — III ordynat Jan II Zamoyski Sobiepan (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-renesans-francuski.png)
+![Na kanwie renesansowego układu villowego — maniera renesansu francuskiego — III ordynat Jan II Zamoyski Sobiepan (hipotetyczna rekonstrukcja). Osie główne przedłużone, nowe promieniste: 12. staw z czterema wyspami, 13. ermitaż na środkowej wyspie, 14. długi kanał wzdłuż grobli dojazdowej, 15. grobla Marysieńki wedle stawu. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-renesans-francuski.png)
 
 ![Na kanwie renesansowego układu villowego — maniera renesansu francuskiego — III ordynat Jan II Zamoyski Sobiepan (hipotetyczna rekonstrukcja, elementy zewnętrzne). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-renesans-fr-ext.png)
 
 ### 3. Barok włoski (poł. XVIII w.)
 
-![Na kanwie renesansowego układu villowego i maniery renesansu francuskiego — układ barokowy — VII ordynat Tomasz Antoni Zamoyski (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-uklad-barokowy.png)
+![Na kanwie renesansowego układu villowego i maniery renesansu francuskiego — układ barokowy — VII ordynat Tomasz Antoni Zamoyski (hipotetyczna rekonstrukcja). Barok włoski: 16. kościół baroku kontrreformacji wg Il Gesu (1741–1747), 17. wzory kwater ogrodowych zaprojektowane przez ordynata, 18. przeprawa brodem, 19. grobla z drogą na Klemensów. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-uklad-barokowy.png)
 
 ![Na kanwie renesansowego układu villowego i maniery renesansu francuskiego — układ barokowy — VII ordynat Tomasz Antoni Zamoyski (hipotetyczna rekonstrukcja, elementy zewnętrzne). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/oficyny-kwatery.png)
 
-![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-barok-ext.png)
+![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja). Nowy układ drożny: 20. dojazd po grobli do willi, 21. droga z tartaku w Rudce do zabudowań gospodarczych, 22. droga na Topólczę i Biłgoraj. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-barok-ext.png)
 
 ### 4. Maniera sentymentalna (koniec XVIII w.)
 
-![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego, włoskiego baroku i nowego układu drożnego — maniera sentymentalna — XI ordynat Aleksander August Zamoyski (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
+![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego, włoskiego baroku i nowego układu drożnego — maniera sentymentalna — XI ordynat Aleksander August Zamoyski (hipotetyczna rekonstrukcja). Maniera sentymentalna: 23. cztery murowane klasycystyczne oficyny, 24. sentymentalny park z kanałami wodnymi, mostkami, altanami nad Wieprzem, 25. młyn z kołem podsiębiernym, 26. chiński mostek nad przelewem, 27. złamane kolumny. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-maniera-sentymentalna.png)
 
-![AOZ - 314 Plany. Mapa pomiarowa Zwierzyńca..., r. 1829–1830. Ogrody „romantycznych i oświeconych" — XII ordynat Stanisław Kostka Zamoyski (hipotetyczna rekonstrukcja). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-sentyment-studium.png)
+![AOZ - 314 Plany. Mapa pomiarowa Zwierzyńca..., r. 1829–1830. Ogrody „romantycznych i oświeconych" — XII ordynat Stanisław Kostka Zamoyski (hipotetyczna rekonstrukcja). Ogrody: 28. swobodne ogrody w stylu angielskim, 29. rzymski sarkofag na wyspie topolowej, 30. oko Opatrzności Bożej, 31. oberża, 32. most na trakcie szczebrzeskim, 33. kawalerka, 34. Willa Borowianka, 35. bednarnia, 36. lodownia, 37. mechanika, 38. drewniane domy urzędnicze, 39. rzeka po regulacji. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-sentyment-studium.png)
 
-![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego, włoskiego baroku i nowego układu drożnego — maniera sentymentalna — XI ordynat Aleksander August Zamoyski (hipotetyczna rekonstrukcja, elementy sentymentalne). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/maniera-sentymentalna-klimat.png)
+![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego, włoskiego baroku i nowego układu drożnego — maniera sentymentalna — XI ordynat Aleksander August Zamoyski (hipotetyczna rekonstrukcja, elementy sentymentalne: 23. cztery murowane klasycystyczne oficyny, 24. sentymentalny park, 25. młyn z kołem podsiębiernym, 26. chiński mostek nad przelewem, 27. złamane kolumny). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/maniera-sentymentalna-klimat.png)
 
 ![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego, włoskiego baroku i nowego układu drożnego — maniera sentymentalna — XI ordynat Aleksander August Zamoyski (hipotetyczna rekonstrukcja, oficyny klasycystyczne). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/maniera-klasyczna.png)
 
@@ -195,9 +195,9 @@ Jan Zamoyski studiował w Padwie prawo (immatrykulacja 1561, rektorat 1563). Ko�
 
 ### Rekonstrukcje — komunikacja i dojazdy
 
-![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja, dojazdy). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-dojazdy.png)
+![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja, dojazdy: 20. dojazd po grobli do willi, 21. droga z tartaku w Rudce do zabudowań gospodarczych, 22. droga na Topólczę i Biłgoraj). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-dojazdy.png)
 
-![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja, drogi). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-drogi.png)
+![Na kanwie renesansowego układu villowego, maniery renesansu francuskiego i włoskiego baroku — nowy układ drożny — X ordynat Andrzej Zamoyski (hipotetyczna rekonstrukcja, drogi: 20. dojazd po grobli do willi, 21. droga z tartaku w Rudce do zabudowań gospodarczych, 22. droga na Topólczę i Biłgoraj). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/rekonstrukcja-drogi.png)
 
 ### Rozwarstwienie i rozwój posiadłości
 
@@ -235,11 +235,11 @@ Jan Zamoyski studiował w Padwie prawo (immatrykulacja 1561, rektorat 1563). Ko�
 
 ![Wojskowa mapa topograficzna Galicji CK (1779–1783) — fragment układu villowego Zwierzyńca wg modelu renesansowego. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/mapa-topograficzna-galicja.png)
 
-![Mapa topograficzna Galicji (1779–1783) — fragment układu villowego Zwierzyńca wg modelu renesansowego (z numeracją elementów). Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/plan-plenipotentowka.png)
+![Mapa topograficzna Galicji (1779–1783) — fragment układu villowego Zwierzyńca wg modelu renesansowego (z numeracją elementów): 1. willa, 3. zabudowania gospodarcze, 6. staw willowy, 12. staw z czterema wyspami, 14. suchy kanał, 16. kościół na wodzie, 19. droga na Klemensów, 20. nowy dojazd groblą do willi, 21. droga z tartaku w Rudce do zabudowań gospodarczych, 22. droga na Topólczę i Biłgoraj. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/plan-plenipotentowka.png)
 
 ### Mapa pomiarowa Ordynacji, 1829–1830
 
-![AOZ - 314 Plany. Mapa pomiarowa Zwierzyńca..., r. 1829–1830 — model idealnej villi zapisany ponad 230 lat później. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/kod-geometryczny-fantom.png)
+![AOZ - 314 Plany. Mapa pomiarowa Zwierzyńca..., r. 1829–1830 — model idealnej villi zapisany ponad 230 lat później. Elementy villi: 1. centralna modrzewiowa willa, 2. dwie symetryczne drewniane oficyny, 3. zabudowania gospodarcze, 4. mediana ogrodu kwaterowego z kopcem widokowym, 5. dukt leśny, 6. staw villowy, 7. budynek wrotnych przed dziedzińcem, 8. grobla z drogą dojazdową, 9. kamienny most — system zastawek, 10. zwierzyńczyk, 11. oparkaniony zwierzyniec. Oprac. L. Matławska-Patyk, M. Patyk.](../../../assets/images/studium/kod-geometryczny-fantom.png)
 
 ### Plan gruntów, 1842
 
